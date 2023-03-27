@@ -1,0 +1,75 @@
+﻿[Files]
+File0=..\..\Implementationen\Schuetze\Duell.java
+File1=..\..\Implementationen\Schuetze\Schiessstand.java
+File2=..\..\Implementationen\Schuetze\Schuetze.java
+File3=..\..\Implementationen\Schuetze\Warteschlange.java
+
+[Box:  - Duell]
+X=954
+Y=49
+ShowParameter=4
+ShowIcons=2
+FontSize=13
+FontName=Consolas
+
+[Box:  - Schiessstand]
+X=147
+Y=37
+ShowParameter=4
+ShowIcons=2
+FontSize=13
+FontName=Consolas
+
+[Box:  - Schuetze]
+X=1291
+Y=331
+ShowParameter=4
+ShowIcons=2
+FontSize=13
+FontName=Consolas
+
+[Box:  - Warteschlange]
+X=102
+Y=219
+ShowParameter=4
+ShowIcons=2
+FontSize=13
+FontName=Consolas
+
+[Diagram]
+comments=0
+OffsetX=0
+OffsetY=0
+Visibility=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=0
+ShowConnections=0
+Fontname=Consolas
+Fontsize=13
+ShowObjectDiagram=0
+
+[Connections]
+V0=Duell#Schuetze#AssociationDirected####0#0#0###0#0
+V1=Schiessstand#Warteschlange#AssociationDirected####0#0#0###0#0
+
+[Interactive]
+I0=
+I1=Schiessstand schiessstand1 = new Schiessstand();
+I2=Schiessstand schiessstand1 = new Schiessstand();
+I3=Schuetze schuetze1 = new Schuetze();
+I4=Schuetze schuetze2 = new Schuetze();
+I5=Schuetze schuetze3 = new Schuetze();
+I6=warteschlange1.schuetzeAnstellen(schuetze1);
+I7=warteschlange1.schuetzeAnstellen(schuetze2);
+I8=warteschlange1.istSchlangeLeer();
+I9=warteschlange1.getErsterSchuetze();
+I10=warteschlange1.schuetzeAusWarteschlangeEntfernen();
+I11=warteschlange1.schuetzeAusWarteschlangeEntfernen();
+
+[Window]
+Left=52
+Top=52
+Width=1478
+Height=469
+

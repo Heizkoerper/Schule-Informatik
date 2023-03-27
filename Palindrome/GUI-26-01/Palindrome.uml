@@ -1,0 +1,56 @@
+﻿[Files]
+File0=H:\Gruppen\Q1 IF G1\Schülerordner\JonSch2\Implementationen\Palindrome\GUI.java
+File1=H:\Gruppen\Q1 IF G1\Schülerordner\JonSch2\Implementationen\Palindrome\Palindrome.java
+
+[Box:  - GUI]
+X=678
+Y=154
+ShowParameter=4
+ShowIcons=2
+FontSize=12
+FontName=Segoe UI
+
+[Box:  - Palindrome]
+X=20
+Y=40
+ShowParameter=4
+ShowIcons=2
+FontSize=12
+FontName=Segoe UI
+
+[Diagram]
+comments=0
+OffsetX=0
+OffsetY=0
+Visibility=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=2
+ShowConnections=0
+Fontname=Segoe UI
+Fontsize=12
+ShowObjectDiagram=0
+
+[Interactive]
+I0=
+I1=Palindrome palindrome1 = new Palindrome();
+I2=palindrome1.palindromPruefen("halah");
+I3=palindrome1.palindromPruefen("sdfdsdb");
+I4=palindrome1.palindromPruefen("abxyba");
+I5=Palindrome palindrome1 = new Palindrome();
+I6=palindrome1.palindromPruefen("abxyba");
+I7=Palindrome palindrome1 = new Palindrome();
+I8=palindrome1.test("   abc   ");
+I9=Palindrome palindrome1 = new Palindrome();
+I10=palindrome1.test("   abc");
+I11=Palindrome palindrome1 = new Palindrome();
+I12=palindrome1.test("  ab c  d ");
+I13=Palindrome palindrome1 = new Palindrome();
+I14=palindrome1.palindromPruefen("Ab C b a");
+
+[Window]
+Left=52
+Top=52
+Width=1529
+Height=541
+

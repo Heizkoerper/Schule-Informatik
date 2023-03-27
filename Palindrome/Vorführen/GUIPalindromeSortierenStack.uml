@@ -1,0 +1,3671 @@
+﻿[Files]
+File0=..\..\Implementationen\Palindrome\Vorführen\GUI.java
+File1=..\..\Implementationen\Palindrome\Vorführen\Palindrome.java
+File2=..\..\Implementationen\Palindrome\Vorführen\Sortieren.java
+File3=..\..\Implementationen\Palindrome\Vorführen\Stack.java
+
+[Object:  - accesscontrolcontext1]
+X=708
+Y=185
+Name=accesscontrolcontext1
+Typ=java.security.AccessControlContext
+
+[Object:  - accesscontrolcontext2]
+X=711
+Y=216
+Name=accesscontrolcontext2
+Typ=java.security.AccessControlContext
+
+[Object:  - accesscontrolcontext3]
+X=667
+Y=159
+Name=accesscontrolcontext3
+Typ=java.security.AccessControlContext
+
+[Object:  - accesscontrolcontext4]
+X=536
+Y=314
+Name=accesscontrolcontext4
+Typ=java.security.AccessControlContext
+
+[Object:  - arraydeque1]
+X=667
+Y=168
+Name=arraydeque1
+Typ=java.util.ArrayDeque
+
+[Object:  - arraydeque2]
+X=699
+Y=187
+Name=arraydeque2
+Typ=java.util.ArrayDeque
+
+[Object:  - arraylist1]
+X=707
+Y=169
+Name=arraylist1
+Typ=java.util.ArrayList
+
+[Object:  - arraylist2]
+X=700
+Y=174
+Name=arraylist2
+Typ=java.util.ArrayList
+
+[Object:  - arraylist3]
+X=693
+Y=181
+Name=arraylist3
+Typ=java.util.ArrayList
+
+[Object:  - arraylist4]
+X=742
+Y=151
+Name=arraylist4
+Typ=java.util.ArrayList
+
+[Object:  - arraylist5]
+X=707
+Y=190
+Name=arraylist5
+Typ=java.util.ArrayList
+
+[Object:  - arraylist6]
+X=712
+Y=163
+Name=arraylist6
+Typ=java.util.ArrayList
+
+[Object:  - arraylist7]
+X=701
+Y=174
+Name=arraylist7
+Typ=java.util.ArrayList
+
+[Object:  - arraylist8]
+X=713
+Y=189
+Name=arraylist8
+Typ=java.util.ArrayList
+
+[Object:  - baselocale1]
+X=705
+Y=185
+Name=baselocale1
+Typ=sun.util.locale.BaseLocale
+
+[Object:  - basicpermissioncollection1]
+X=713
+Y=193
+Name=basicpermissioncollection1
+Typ=java.security.BasicPermissionCollection
+
+[Object:  - basicpermissioncollection2]
+X=704
+Y=173
+Name=basicpermissioncollection2
+Typ=java.security.BasicPermissionCollection
+
+[Object:  - certificate1]
+X=693
+Y=167
+Name=certificate1
+Typ=java.security.cert.Certificate[]
+
+[Object:  - codesource1]
+X=700
+Y=168
+Name=codesource1
+Typ=java.security.CodeSource
+
+[Object:  - codesource2]
+X=698
+Y=147
+Name=codesource2
+Typ=java.security.CodeSource
+
+[Object:  - codesource3]
+X=704
+Y=210
+Name=codesource3
+Typ=java.security.CodeSource
+
+[Object:  - codesource4]
+X=692
+Y=177
+Name=codesource4
+Typ=java.security.CodeSource
+
+[Object:  - codingerroraction1]
+X=700
+Y=192
+Name=codingerroraction1
+Typ=java.nio.charset.CodingErrorAction
+
+[Object:  - collections$synchronizedset1]
+X=693
+Y=202
+Name=collections$synchronizedset1
+Typ=java.util.Collections$SynchronizedSet
+
+[Object:  - collections$synchronizedset2]
+X=684
+Y=193
+Name=collections$synchronizedset2
+Typ=java.util.Collections$SynchronizedSet
+
+[Object:  - concurrenthashmap$node1]
+X=709
+Y=142
+Name=concurrenthashmap$node1
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node10]
+X=726
+Y=187
+Name=concurrenthashmap$node10
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node100]
+X=673
+Y=158
+Name=concurrenthashmap$node100
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node101]
+X=728
+Y=171
+Name=concurrenthashmap$node101
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node102]
+X=694
+Y=170
+Name=concurrenthashmap$node102
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node103]
+X=726
+Y=197
+Name=concurrenthashmap$node103
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node104]
+X=716
+Y=204
+Name=concurrenthashmap$node104
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node105]
+X=706
+Y=149
+Name=concurrenthashmap$node105
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node106]
+X=693
+Y=176
+Name=concurrenthashmap$node106
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node107]
+X=716
+Y=178
+Name=concurrenthashmap$node107
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node108]
+X=687
+Y=199
+Name=concurrenthashmap$node108
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node109]
+X=715
+Y=196
+Name=concurrenthashmap$node109
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node11]
+X=721
+Y=181
+Name=concurrenthashmap$node11
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node110]
+X=720
+Y=187
+Name=concurrenthashmap$node110
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node111]
+X=690
+Y=144
+Name=concurrenthashmap$node111
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node112]
+X=710
+Y=178
+Name=concurrenthashmap$node112
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node113]
+X=693
+Y=175
+Name=concurrenthashmap$node113
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node114]
+X=712
+Y=168
+Name=concurrenthashmap$node114
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node115]
+X=709
+Y=165
+Name=concurrenthashmap$node115
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node116]
+X=701
+Y=152
+Name=concurrenthashmap$node116
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node117]
+X=677
+Y=173
+Name=concurrenthashmap$node117
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node118]
+X=731
+Y=191
+Name=concurrenthashmap$node118
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node119]
+X=711
+Y=173
+Name=concurrenthashmap$node119
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node12]
+X=708
+Y=192
+Name=concurrenthashmap$node12
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node120]
+X=713
+Y=201
+Name=concurrenthashmap$node120
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node121]
+X=698
+Y=199
+Name=concurrenthashmap$node121
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node122]
+X=716
+Y=190
+Name=concurrenthashmap$node122
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node123]
+X=715
+Y=169
+Name=concurrenthashmap$node123
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node124]
+X=730
+Y=190
+Name=concurrenthashmap$node124
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node125]
+X=712
+Y=171
+Name=concurrenthashmap$node125
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node126]
+X=684
+Y=172
+Name=concurrenthashmap$node126
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node127]
+X=700
+Y=164
+Name=concurrenthashmap$node127
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node128]
+X=703
+Y=181
+Name=concurrenthashmap$node128
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node129]
+X=714
+Y=173
+Name=concurrenthashmap$node129
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node13]
+X=704
+Y=197
+Name=concurrenthashmap$node13
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node130]
+X=717
+Y=186
+Name=concurrenthashmap$node130
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node131]
+X=706
+Y=168
+Name=concurrenthashmap$node131
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node132]
+X=694
+Y=179
+Name=concurrenthashmap$node132
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node133]
+X=723
+Y=169
+Name=concurrenthashmap$node133
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node134]
+X=688
+Y=179
+Name=concurrenthashmap$node134
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node135]
+X=708
+Y=195
+Name=concurrenthashmap$node135
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node136]
+X=706
+Y=163
+Name=concurrenthashmap$node136
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node137]
+X=698
+Y=191
+Name=concurrenthashmap$node137
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node138]
+X=715
+Y=185
+Name=concurrenthashmap$node138
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node139]
+X=702
+Y=192
+Name=concurrenthashmap$node139
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node14]
+X=717
+Y=171
+Name=concurrenthashmap$node14
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node140]
+X=692
+Y=171
+Name=concurrenthashmap$node140
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node141]
+X=733
+Y=152
+Name=concurrenthashmap$node141
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node142]
+X=724
+Y=176
+Name=concurrenthashmap$node142
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node143]
+X=668
+Y=156
+Name=concurrenthashmap$node143
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node144]
+X=674
+Y=191
+Name=concurrenthashmap$node144
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node145]
+X=739
+Y=190
+Name=concurrenthashmap$node145
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node146]
+X=708
+Y=163
+Name=concurrenthashmap$node146
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node147]
+X=705
+Y=158
+Name=concurrenthashmap$node147
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node148]
+X=689
+Y=178
+Name=concurrenthashmap$node148
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node149]
+X=704
+Y=184
+Name=concurrenthashmap$node149
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node15]
+X=685
+Y=202
+Name=concurrenthashmap$node15
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node150]
+X=732
+Y=174
+Name=concurrenthashmap$node150
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node151]
+X=709
+Y=181
+Name=concurrenthashmap$node151
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node152]
+X=700
+Y=177
+Name=concurrenthashmap$node152
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node153]
+X=711
+Y=195
+Name=concurrenthashmap$node153
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node154]
+X=713
+Y=206
+Name=concurrenthashmap$node154
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node155]
+X=695
+Y=184
+Name=concurrenthashmap$node155
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node156]
+X=705
+Y=171
+Name=concurrenthashmap$node156
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node157]
+X=728
+Y=186
+Name=concurrenthashmap$node157
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node158]
+X=710
+Y=182
+Name=concurrenthashmap$node158
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node159]
+X=700
+Y=190
+Name=concurrenthashmap$node159
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node16]
+X=714
+Y=195
+Name=concurrenthashmap$node16
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node160]
+X=707
+Y=188
+Name=concurrenthashmap$node160
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node161]
+X=679
+Y=184
+Name=concurrenthashmap$node161
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node17]
+X=703
+Y=170
+Name=concurrenthashmap$node17
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node18]
+X=691
+Y=210
+Name=concurrenthashmap$node18
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node19]
+X=716
+Y=183
+Name=concurrenthashmap$node19
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node2]
+X=705
+Y=217
+Name=concurrenthashmap$node2
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node20]
+X=707
+Y=187
+Name=concurrenthashmap$node20
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node21]
+X=703
+Y=167
+Name=concurrenthashmap$node21
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node22]
+X=694
+Y=193
+Name=concurrenthashmap$node22
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node23]
+X=708
+Y=174
+Name=concurrenthashmap$node23
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node24]
+X=686
+Y=164
+Name=concurrenthashmap$node24
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node25]
+X=731
+Y=204
+Name=concurrenthashmap$node25
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node26]
+X=699
+Y=197
+Name=concurrenthashmap$node26
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node27]
+X=672
+Y=195
+Name=concurrenthashmap$node27
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node28]
+X=717
+Y=208
+Name=concurrenthashmap$node28
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node29]
+X=679
+Y=194
+Name=concurrenthashmap$node29
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node3]
+X=678
+Y=182
+Name=concurrenthashmap$node3
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node30]
+X=705
+Y=180
+Name=concurrenthashmap$node30
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node31]
+X=692
+Y=206
+Name=concurrenthashmap$node31
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node32]
+X=722
+Y=191
+Name=concurrenthashmap$node32
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node33]
+X=721
+Y=215
+Name=concurrenthashmap$node33
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node34]
+X=688
+Y=213
+Name=concurrenthashmap$node34
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node35]
+X=728
+Y=163
+Name=concurrenthashmap$node35
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node36]
+X=715
+Y=191
+Name=concurrenthashmap$node36
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node37]
+X=677
+Y=170
+Name=concurrenthashmap$node37
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node38]
+X=701
+Y=201
+Name=concurrenthashmap$node38
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node39]
+X=682
+Y=165
+Name=concurrenthashmap$node39
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node4]
+X=709
+Y=179
+Name=concurrenthashmap$node4
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node40]
+X=716
+Y=169
+Name=concurrenthashmap$node40
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node41]
+X=701
+Y=169
+Name=concurrenthashmap$node41
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node42]
+X=731
+Y=174
+Name=concurrenthashmap$node42
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node43]
+X=719
+Y=178
+Name=concurrenthashmap$node43
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node44]
+X=730
+Y=197
+Name=concurrenthashmap$node44
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node45]
+X=687
+Y=207
+Name=concurrenthashmap$node45
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node46]
+X=715
+Y=192
+Name=concurrenthashmap$node46
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node47]
+X=708
+Y=166
+Name=concurrenthashmap$node47
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node48]
+X=708
+Y=203
+Name=concurrenthashmap$node48
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node49]
+X=698
+Y=151
+Name=concurrenthashmap$node49
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node5]
+X=680
+Y=165
+Name=concurrenthashmap$node5
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node50]
+X=671
+Y=183
+Name=concurrenthashmap$node50
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node51]
+X=705
+Y=174
+Name=concurrenthashmap$node51
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node52]
+X=702
+Y=198
+Name=concurrenthashmap$node52
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node53]
+X=707
+Y=185
+Name=concurrenthashmap$node53
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node54]
+X=684
+Y=189
+Name=concurrenthashmap$node54
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node55]
+X=724
+Y=185
+Name=concurrenthashmap$node55
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node56]
+X=687
+Y=199
+Name=concurrenthashmap$node56
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node57]
+X=722
+Y=197
+Name=concurrenthashmap$node57
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node58]
+X=720
+Y=164
+Name=concurrenthashmap$node58
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node59]
+X=712
+Y=166
+Name=concurrenthashmap$node59
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node6]
+X=706
+Y=198
+Name=concurrenthashmap$node6
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node60]
+X=690
+Y=180
+Name=concurrenthashmap$node60
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node61]
+X=712
+Y=155
+Name=concurrenthashmap$node61
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node62]
+X=681
+Y=167
+Name=concurrenthashmap$node62
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node63]
+X=670
+Y=217
+Name=concurrenthashmap$node63
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node64]
+X=685
+Y=170
+Name=concurrenthashmap$node64
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node65]
+X=708
+Y=179
+Name=concurrenthashmap$node65
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node66]
+X=683
+Y=172
+Name=concurrenthashmap$node66
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node67]
+X=682
+Y=176
+Name=concurrenthashmap$node67
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node68]
+X=717
+Y=161
+Name=concurrenthashmap$node68
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node69]
+X=712
+Y=203
+Name=concurrenthashmap$node69
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node7]
+X=707
+Y=170
+Name=concurrenthashmap$node7
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node70]
+X=675
+Y=180
+Name=concurrenthashmap$node70
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node71]
+X=679
+Y=211
+Name=concurrenthashmap$node71
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node72]
+X=687
+Y=182
+Name=concurrenthashmap$node72
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node73]
+X=727
+Y=187
+Name=concurrenthashmap$node73
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node74]
+X=697
+Y=204
+Name=concurrenthashmap$node74
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node75]
+X=708
+Y=198
+Name=concurrenthashmap$node75
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node76]
+X=697
+Y=178
+Name=concurrenthashmap$node76
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node77]
+X=715
+Y=169
+Name=concurrenthashmap$node77
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node78]
+X=741
+Y=158
+Name=concurrenthashmap$node78
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node79]
+X=684
+Y=191
+Name=concurrenthashmap$node79
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node8]
+X=719
+Y=173
+Name=concurrenthashmap$node8
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node80]
+X=697
+Y=179
+Name=concurrenthashmap$node80
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node81]
+X=714
+Y=185
+Name=concurrenthashmap$node81
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node82]
+X=694
+Y=166
+Name=concurrenthashmap$node82
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node83]
+X=716
+Y=180
+Name=concurrenthashmap$node83
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node84]
+X=707
+Y=193
+Name=concurrenthashmap$node84
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node85]
+X=701
+Y=172
+Name=concurrenthashmap$node85
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node86]
+X=722
+Y=156
+Name=concurrenthashmap$node86
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node87]
+X=701
+Y=198
+Name=concurrenthashmap$node87
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node88]
+X=703
+Y=180
+Name=concurrenthashmap$node88
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node89]
+X=705
+Y=161
+Name=concurrenthashmap$node89
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node9]
+X=683
+Y=167
+Name=concurrenthashmap$node9
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node90]
+X=685
+Y=161
+Name=concurrenthashmap$node90
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node91]
+X=702
+Y=191
+Name=concurrenthashmap$node91
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node92]
+X=722
+Y=159
+Name=concurrenthashmap$node92
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node93]
+X=725
+Y=145
+Name=concurrenthashmap$node93
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node94]
+X=733
+Y=189
+Name=concurrenthashmap$node94
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node95]
+X=680
+Y=179
+Name=concurrenthashmap$node95
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node96]
+X=692
+Y=173
+Name=concurrenthashmap$node96
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node97]
+X=683
+Y=212
+Name=concurrenthashmap$node97
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node98]
+X=701
+Y=173
+Name=concurrenthashmap$node98
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap$node99]
+X=690
+Y=169
+Name=concurrenthashmap$node99
+Typ=java.util.concurrent.ConcurrentHashMap$Node
+
+[Object:  - concurrenthashmap1]
+X=727
+Y=177
+Name=concurrenthashmap1
+Typ=java.util.concurrent.ConcurrentHashMap
+
+[Object:  - concurrenthashmap2]
+X=725
+Y=182
+Name=concurrenthashmap2
+Typ=java.util.concurrent.ConcurrentHashMap
+
+[Object:  - concurrenthashmap3]
+X=688
+Y=153
+Name=concurrenthashmap3
+Typ=java.util.concurrent.ConcurrentHashMap
+
+[Object:  - concurrenthashmap4]
+X=699
+Y=201
+Name=concurrenthashmap4
+Typ=java.util.concurrent.ConcurrentHashMap
+
+[Object:  - -ERR java.lang.NoSuchMethodError: palindromPruefen
+]
+X=384
+Y=272
+Name=-ERR java.lang.NoSuchMethodError: palindromPruefen
+
+Typ=GUI
+
+[Object:  - file1]
+X=701
+Y=166
+Name=file1
+Typ=java.io.File
+
+[Object:  - file2]
+X=697
+Y=180
+Name=file2
+Typ=java.io.File
+
+[Object:  - filepermission1]
+X=730
+Y=173
+Name=filepermission1
+Typ=java.io.FilePermission
+
+[Object:  - filepermission2]
+X=725
+Y=188
+Name=filepermission2
+Typ=java.io.FilePermission
+
+[Object:  - filepermissioncollection1]
+X=718
+Y=197
+Name=filepermissioncollection1
+Typ=java.io.FilePermissionCollection
+
+[Object:  - filepermissioncollection2]
+X=705
+Y=193
+Name=filepermissioncollection2
+Typ=java.io.FilePermissionCollection
+
+[Box:  - GUI]
+X=412
+Y=33
+ShowParameter=4
+ShowIcons=2
+FontSize=12
+FontName=Segoe UI
+
+[Object:  - gui1]
+X=485
+Y=286
+Name=gui1
+Typ=GUI
+
+[Object:  - handler1]
+X=691
+Y=166
+Name=handler1
+Typ=sun.net.www.protocol.file.Handler
+
+[Object:  - handler2]
+X=720
+Y=178
+Name=handler2
+Typ=sun.net.www.protocol.jar.Handler
+
+[Object:  - handler3]
+X=688
+Y=173
+Name=handler3
+Typ=sun.net.www.protocol.jar.Handler
+
+[Object:  - hashmap$entryset1]
+X=681
+Y=188
+Name=hashmap$entryset1
+Typ=java.util.HashMap$EntrySet
+
+[Object:  - hashmap$entryset10]
+X=694
+Y=169
+Name=hashmap$entryset10
+Typ=java.util.HashMap$EntrySet
+
+[Object:  - hashmap$entryset11]
+X=700
+Y=180
+Name=hashmap$entryset11
+Typ=java.util.HashMap$EntrySet
+
+[Object:  - hashmap$entryset12]
+X=717
+Y=142
+Name=hashmap$entryset12
+Typ=java.util.HashMap$EntrySet
+
+[Object:  - hashmap$entryset13]
+X=707
+Y=166
+Name=hashmap$entryset13
+Typ=java.util.HashMap$EntrySet
+
+[Object:  - hashmap$entryset14]
+X=672
+Y=163
+Name=hashmap$entryset14
+Typ=java.util.HashMap$EntrySet
+
+[Object:  - hashmap$entryset2]
+X=700
+Y=199
+Name=hashmap$entryset2
+Typ=java.util.HashMap$EntrySet
+
+[Object:  - hashmap$entryset3]
+X=731
+Y=196
+Name=hashmap$entryset3
+Typ=java.util.HashMap$EntrySet
+
+[Object:  - hashmap$entryset4]
+X=712
+Y=182
+Name=hashmap$entryset4
+Typ=java.util.HashMap$EntrySet
+
+[Object:  - hashmap$entryset5]
+X=700
+Y=190
+Name=hashmap$entryset5
+Typ=java.util.HashMap$EntrySet
+
+[Object:  - hashmap$entryset6]
+X=715
+Y=165
+Name=hashmap$entryset6
+Typ=java.util.HashMap$EntrySet
+
+[Object:  - hashmap$entryset7]
+X=679
+Y=173
+Name=hashmap$entryset7
+Typ=java.util.HashMap$EntrySet
+
+[Object:  - hashmap$entryset8]
+X=700
+Y=177
+Name=hashmap$entryset8
+Typ=java.util.HashMap$EntrySet
+
+[Object:  - hashmap$entryset9]
+X=688
+Y=199
+Name=hashmap$entryset9
+Typ=java.util.HashMap$EntrySet
+
+[Object:  - hashmap$keyset1]
+X=685
+Y=205
+Name=hashmap$keyset1
+Typ=java.util.HashMap$KeySet
+
+[Object:  - hashmap$keyset2]
+X=693
+Y=168
+Name=hashmap$keyset2
+Typ=java.util.HashMap$KeySet
+
+[Object:  - hashmap$node1]
+X=729
+Y=194
+Name=hashmap$node1
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$node10]
+X=678
+Y=199
+Name=hashmap$node10
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$node11]
+X=731
+Y=162
+Name=hashmap$node11
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$node12]
+X=680
+Y=149
+Name=hashmap$node12
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$node13]
+X=725
+Y=194
+Name=hashmap$node13
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$node14]
+X=688
+Y=183
+Name=hashmap$node14
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$node15]
+X=719
+Y=200
+Name=hashmap$node15
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$node16]
+X=705
+Y=177
+Name=hashmap$node16
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$node17]
+X=731
+Y=155
+Name=hashmap$node17
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$node18]
+X=677
+Y=192
+Name=hashmap$node18
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$node19]
+X=684
+Y=188
+Name=hashmap$node19
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$node2]
+X=705
+Y=155
+Name=hashmap$node2
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$node20]
+X=711
+Y=212
+Name=hashmap$node20
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$node21]
+X=698
+Y=179
+Name=hashmap$node21
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$node22]
+X=694
+Y=204
+Name=hashmap$node22
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$node23]
+X=721
+Y=180
+Name=hashmap$node23
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$node24]
+X=710
+Y=176
+Name=hashmap$node24
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$node25]
+X=680
+Y=207
+Name=hashmap$node25
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$node26]
+X=701
+Y=158
+Name=hashmap$node26
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$node27]
+X=714
+Y=171
+Name=hashmap$node27
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$node28]
+X=717
+Y=172
+Name=hashmap$node28
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$node29]
+X=723
+Y=194
+Name=hashmap$node29
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$node3]
+X=704
+Y=165
+Name=hashmap$node3
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$node30]
+X=701
+Y=156
+Name=hashmap$node30
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$node31]
+X=670
+Y=200
+Name=hashmap$node31
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$node32]
+X=690
+Y=194
+Name=hashmap$node32
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$node33]
+X=703
+Y=194
+Name=hashmap$node33
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$node34]
+X=710
+Y=146
+Name=hashmap$node34
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$node35]
+X=680
+Y=172
+Name=hashmap$node35
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$node36]
+X=691
+Y=192
+Name=hashmap$node36
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$node37]
+X=688
+Y=168
+Name=hashmap$node37
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$node38]
+X=716
+Y=175
+Name=hashmap$node38
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$node39]
+X=729
+Y=203
+Name=hashmap$node39
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$node4]
+X=707
+Y=149
+Name=hashmap$node4
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$node40]
+X=713
+Y=186
+Name=hashmap$node40
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$node41]
+X=728
+Y=191
+Name=hashmap$node41
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$node42]
+X=731
+Y=158
+Name=hashmap$node42
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$node43]
+X=709
+Y=173
+Name=hashmap$node43
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$node44]
+X=689
+Y=193
+Name=hashmap$node44
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$node45]
+X=696
+Y=169
+Name=hashmap$node45
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$node46]
+X=704
+Y=196
+Name=hashmap$node46
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$node47]
+X=705
+Y=201
+Name=hashmap$node47
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$node48]
+X=716
+Y=159
+Name=hashmap$node48
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$node49]
+X=702
+Y=147
+Name=hashmap$node49
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$node5]
+X=723
+Y=175
+Name=hashmap$node5
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$node50]
+X=694
+Y=198
+Name=hashmap$node50
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$node51]
+X=699
+Y=187
+Name=hashmap$node51
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$node52]
+X=724
+Y=177
+Name=hashmap$node52
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$node53]
+X=698
+Y=185
+Name=hashmap$node53
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$node54]
+X=672
+Y=144
+Name=hashmap$node54
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$node55]
+X=697
+Y=171
+Name=hashmap$node55
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$node56]
+X=697
+Y=160
+Name=hashmap$node56
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$node6]
+X=727
+Y=160
+Name=hashmap$node6
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$node7]
+X=696
+Y=149
+Name=hashmap$node7
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$node8]
+X=699
+Y=164
+Name=hashmap$node8
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$node9]
+X=676
+Y=188
+Name=hashmap$node9
+Typ=java.util.HashMap$Node
+
+[Object:  - hashmap$values1]
+X=709
+Y=179
+Name=hashmap$values1
+Typ=java.util.HashMap$Values
+
+[Object:  - hashmap$values2]
+X=720
+Y=165
+Name=hashmap$values2
+Typ=java.util.HashMap$Values
+
+[Object:  - hashmap$values3]
+X=702
+Y=189
+Name=hashmap$values3
+Typ=java.util.HashMap$Values
+
+[Object:  - hashmap$values4]
+X=691
+Y=163
+Name=hashmap$values4
+Typ=java.util.HashMap$Values
+
+[Object:  - hashmap1]
+X=718
+Y=171
+Name=hashmap1
+Typ=java.util.HashMap
+
+[Object:  - hashmap10]
+X=704
+Y=177
+Name=hashmap10
+Typ=java.util.HashMap
+
+[Object:  - hashmap11]
+X=683
+Y=190
+Name=hashmap11
+Typ=java.util.HashMap
+
+[Object:  - hashmap12]
+X=680
+Y=183
+Name=hashmap12
+Typ=java.util.HashMap
+
+[Object:  - hashmap13]
+X=707
+Y=204
+Name=hashmap13
+Typ=java.util.HashMap
+
+[Object:  - hashmap14]
+X=729
+Y=187
+Name=hashmap14
+Typ=java.util.HashMap
+
+[Object:  - hashmap2]
+X=689
+Y=199
+Name=hashmap2
+Typ=java.util.HashMap
+
+[Object:  - hashmap3]
+X=710
+Y=210
+Name=hashmap3
+Typ=java.util.HashMap
+
+[Object:  - hashmap4]
+X=683
+Y=204
+Name=hashmap4
+Typ=java.util.HashMap
+
+[Object:  - hashmap5]
+X=718
+Y=206
+Name=hashmap5
+Typ=java.util.HashMap
+
+[Object:  - hashmap6]
+X=721
+Y=166
+Name=hashmap6
+Typ=java.util.HashMap
+
+[Object:  - hashmap7]
+X=691
+Y=180
+Name=hashmap7
+Typ=java.util.HashMap
+
+[Object:  - hashmap8]
+X=673
+Y=165
+Name=hashmap8
+Typ=java.util.HashMap
+
+[Object:  - hashmap9]
+X=697
+Y=197
+Name=hashmap9
+Typ=java.util.HashMap
+
+[Object:  - hashset1]
+X=706
+Y=214
+Name=hashset1
+Typ=java.util.HashSet
+
+[Object:  - hashset2]
+X=717
+Y=203
+Name=hashset2
+Typ=java.util.HashSet
+
+[Object:  - inflater1]
+X=695
+Y=165
+Name=inflater1
+Typ=java.util.zip.Inflater
+
+[Object:  - inflater2]
+X=701
+Y=188
+Name=inflater2
+Typ=java.util.zip.Inflater
+
+[Object:  - jarfile1]
+X=702
+Y=167
+Name=jarfile1
+Typ=java.util.jar.JarFile
+
+[Object:  - jarfile2]
+X=724
+Y=192
+Name=jarfile2
+Typ=java.util.jar.JarFile
+
+[Object:  - jarindex1]
+X=735
+Y=188
+Name=jarindex1
+Typ=sun.misc.JarIndex
+
+[Object:  - launcher$appclassloader1]
+X=696
+Y=173
+Name=launcher$appclassloader1
+Typ=sun.misc.Launcher$AppClassLoader
+
+[Object:  - launcher$extclassloader1]
+X=714
+Y=176
+Name=launcher$extclassloader1
+Typ=sun.misc.Launcher$ExtClassLoader
+
+[Object:  - linkedlist$node1]
+X=671
+Y=189
+Name=linkedlist$node1
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node10]
+X=712
+Y=184
+Name=linkedlist$node10
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node11]
+X=677
+Y=211
+Name=linkedlist$node11
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node12]
+X=693
+Y=177
+Name=linkedlist$node12
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node13]
+X=714
+Y=175
+Name=linkedlist$node13
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node14]
+X=694
+Y=185
+Name=linkedlist$node14
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node15]
+X=703
+Y=163
+Name=linkedlist$node15
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node16]
+X=689
+Y=171
+Name=linkedlist$node16
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node17]
+X=729
+Y=159
+Name=linkedlist$node17
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node18]
+X=736
+Y=204
+Name=linkedlist$node18
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node19]
+X=675
+Y=167
+Name=linkedlist$node19
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node2]
+X=686
+Y=165
+Name=linkedlist$node2
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node20]
+X=711
+Y=198
+Name=linkedlist$node20
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node21]
+X=704
+Y=147
+Name=linkedlist$node21
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node22]
+X=710
+Y=209
+Name=linkedlist$node22
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node23]
+X=720
+Y=204
+Name=linkedlist$node23
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node24]
+X=689
+Y=192
+Name=linkedlist$node24
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node25]
+X=699
+Y=158
+Name=linkedlist$node25
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node26]
+X=727
+Y=178
+Name=linkedlist$node26
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node27]
+X=690
+Y=192
+Name=linkedlist$node27
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node28]
+X=688
+Y=183
+Name=linkedlist$node28
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node29]
+X=709
+Y=213
+Name=linkedlist$node29
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node3]
+X=718
+Y=194
+Name=linkedlist$node3
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node30]
+X=712
+Y=173
+Name=linkedlist$node30
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node31]
+X=699
+Y=161
+Name=linkedlist$node31
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node32]
+X=720
+Y=198
+Name=linkedlist$node32
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node33]
+X=730
+Y=163
+Name=linkedlist$node33
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node34]
+X=719
+Y=167
+Name=linkedlist$node34
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node35]
+X=697
+Y=177
+Name=linkedlist$node35
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node36]
+X=688
+Y=178
+Name=linkedlist$node36
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node37]
+X=709
+Y=196
+Name=linkedlist$node37
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node38]
+X=740
+Y=182
+Name=linkedlist$node38
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node39]
+X=705
+Y=195
+Name=linkedlist$node39
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node4]
+X=697
+Y=175
+Name=linkedlist$node4
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node40]
+X=722
+Y=204
+Name=linkedlist$node40
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node41]
+X=709
+Y=174
+Name=linkedlist$node41
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node42]
+X=680
+Y=206
+Name=linkedlist$node42
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node43]
+X=714
+Y=169
+Name=linkedlist$node43
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node44]
+X=724
+Y=171
+Name=linkedlist$node44
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node45]
+X=708
+Y=206
+Name=linkedlist$node45
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node46]
+X=693
+Y=169
+Name=linkedlist$node46
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node47]
+X=703
+Y=192
+Name=linkedlist$node47
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node48]
+X=711
+Y=174
+Name=linkedlist$node48
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node49]
+X=722
+Y=192
+Name=linkedlist$node49
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node5]
+X=677
+Y=157
+Name=linkedlist$node5
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node50]
+X=734
+Y=177
+Name=linkedlist$node50
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node51]
+X=706
+Y=186
+Name=linkedlist$node51
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node52]
+X=671
+Y=200
+Name=linkedlist$node52
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node53]
+X=701
+Y=185
+Name=linkedlist$node53
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node54]
+X=714
+Y=215
+Name=linkedlist$node54
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node55]
+X=704
+Y=159
+Name=linkedlist$node55
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node56]
+X=707
+Y=157
+Name=linkedlist$node56
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node57]
+X=715
+Y=192
+Name=linkedlist$node57
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node58]
+X=697
+Y=153
+Name=linkedlist$node58
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node6]
+X=709
+Y=189
+Name=linkedlist$node6
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node7]
+X=701
+Y=182
+Name=linkedlist$node7
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node8]
+X=717
+Y=182
+Name=linkedlist$node8
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist$node9]
+X=698
+Y=193
+Name=linkedlist$node9
+Typ=java.util.LinkedList$Node
+
+[Object:  - linkedlist1]
+X=708
+Y=150
+Name=linkedlist1
+Typ=java.util.LinkedList
+
+[Object:  - linkedlist10]
+X=707
+Y=155
+Name=linkedlist10
+Typ=java.util.LinkedList
+
+[Object:  - linkedlist11]
+X=700
+Y=176
+Name=linkedlist11
+Typ=java.util.LinkedList
+
+[Object:  - linkedlist12]
+X=723
+Y=184
+Name=linkedlist12
+Typ=java.util.LinkedList
+
+[Object:  - linkedlist13]
+X=686
+Y=169
+Name=linkedlist13
+Typ=java.util.LinkedList
+
+[Object:  - linkedlist14]
+X=686
+Y=188
+Name=linkedlist14
+Typ=java.util.LinkedList
+
+[Object:  - linkedlist15]
+X=677
+Y=199
+Name=linkedlist15
+Typ=java.util.LinkedList
+
+[Object:  - linkedlist16]
+X=738
+Y=165
+Name=linkedlist16
+Typ=java.util.LinkedList
+
+[Object:  - linkedlist17]
+X=714
+Y=184
+Name=linkedlist17
+Typ=java.util.LinkedList
+
+[Object:  - linkedlist18]
+X=701
+Y=174
+Name=linkedlist18
+Typ=java.util.LinkedList
+
+[Object:  - linkedlist19]
+X=695
+Y=174
+Name=linkedlist19
+Typ=java.util.LinkedList
+
+[Object:  - linkedlist2]
+X=706
+Y=157
+Name=linkedlist2
+Typ=java.util.LinkedList
+
+[Object:  - linkedlist20]
+X=699
+Y=162
+Name=linkedlist20
+Typ=java.util.LinkedList
+
+[Object:  - linkedlist21]
+X=723
+Y=213
+Name=linkedlist21
+Typ=java.util.LinkedList
+
+[Object:  - linkedlist22]
+X=691
+Y=209
+Name=linkedlist22
+Typ=java.util.LinkedList
+
+[Object:  - linkedlist23]
+X=694
+Y=187
+Name=linkedlist23
+Typ=java.util.LinkedList
+
+[Object:  - linkedlist24]
+X=708
+Y=160
+Name=linkedlist24
+Typ=java.util.LinkedList
+
+[Object:  - linkedlist25]
+X=717
+Y=197
+Name=linkedlist25
+Typ=java.util.LinkedList
+
+[Object:  - linkedlist26]
+X=708
+Y=189
+Name=linkedlist26
+Typ=java.util.LinkedList
+
+[Object:  - linkedlist27]
+X=683
+Y=154
+Name=linkedlist27
+Typ=java.util.LinkedList
+
+[Object:  - linkedlist28]
+X=730
+Y=191
+Name=linkedlist28
+Typ=java.util.LinkedList
+
+[Object:  - linkedlist29]
+X=714
+Y=162
+Name=linkedlist29
+Typ=java.util.LinkedList
+
+[Object:  - linkedlist3]
+X=694
+Y=168
+Name=linkedlist3
+Typ=java.util.LinkedList
+
+[Object:  - linkedlist30]
+X=681
+Y=150
+Name=linkedlist30
+Typ=java.util.LinkedList
+
+[Object:  - linkedlist4]
+X=693
+Y=173
+Name=linkedlist4
+Typ=java.util.LinkedList
+
+[Object:  - linkedlist5]
+X=690
+Y=199
+Name=linkedlist5
+Typ=java.util.LinkedList
+
+[Object:  - linkedlist6]
+X=684
+Y=179
+Name=linkedlist6
+Typ=java.util.LinkedList
+
+[Object:  - linkedlist7]
+X=703
+Y=165
+Name=linkedlist7
+Typ=java.util.LinkedList
+
+[Object:  - linkedlist8]
+X=710
+Y=201
+Name=linkedlist8
+Typ=java.util.LinkedList
+
+[Object:  - linkedlist9]
+X=708
+Y=191
+Name=linkedlist9
+Typ=java.util.LinkedList
+
+[Object:  - locale1]
+X=705
+Y=198
+Name=locale1
+Typ=java.util.Locale
+
+[Object:  - metaindex1]
+X=718
+Y=174
+Name=metaindex1
+Typ=sun.misc.MetaIndex
+
+[Object:  - metaindex10]
+X=679
+Y=175
+Name=metaindex10
+Typ=sun.misc.MetaIndex
+
+[Object:  - metaindex11]
+X=689
+Y=168
+Name=metaindex11
+Typ=sun.misc.MetaIndex
+
+[Object:  - metaindex12]
+X=695
+Y=197
+Name=metaindex12
+Typ=sun.misc.MetaIndex
+
+[Object:  - metaindex2]
+X=732
+Y=182
+Name=metaindex2
+Typ=sun.misc.MetaIndex
+
+[Object:  - metaindex3]
+X=694
+Y=196
+Name=metaindex3
+Typ=sun.misc.MetaIndex
+
+[Object:  - metaindex4]
+X=704
+Y=202
+Name=metaindex4
+Typ=sun.misc.MetaIndex
+
+[Object:  - metaindex5]
+X=713
+Y=207
+Name=metaindex5
+Typ=sun.misc.MetaIndex
+
+[Object:  - metaindex6]
+X=723
+Y=177
+Name=metaindex6
+Typ=sun.misc.MetaIndex
+
+[Object:  - metaindex7]
+X=701
+Y=214
+Name=metaindex7
+Typ=sun.misc.MetaIndex
+
+[Object:  - metaindex8]
+X=721
+Y=180
+Name=metaindex8
+Typ=sun.misc.MetaIndex
+
+[Object:  - metaindex9]
+X=673
+Y=188
+Name=metaindex9
+Typ=sun.misc.MetaIndex
+
+[Box:  - Palindrome]
+X=370
+Y=275
+ShowParameter=4
+ShowIcons=2
+FontSize=12
+FontName=Segoe UI
+
+[Object:  - permissions1]
+X=712
+Y=189
+Name=permissions1
+Typ=java.security.Permissions
+
+[Object:  - permissions2]
+X=709
+Y=178
+Name=permissions2
+Typ=java.security.Permissions
+
+[Object:  - protectiondomain$key1]
+X=672
+Y=170
+Name=protectiondomain$key1
+Typ=java.security.ProtectionDomain$Key
+
+[Object:  - protectiondomain$key2]
+X=704
+Y=189
+Name=protectiondomain$key2
+Typ=java.security.ProtectionDomain$Key
+
+[Object:  - protectiondomain$key3]
+X=739
+Y=154
+Name=protectiondomain$key3
+Typ=java.security.ProtectionDomain$Key
+
+[Object:  - protectiondomain$key4]
+X=703
+Y=163
+Name=protectiondomain$key4
+Typ=java.security.ProtectionDomain$Key
+
+[Object:  - protectiondomain1]
+X=689
+Y=202
+Name=protectiondomain1
+Typ=java.security.ProtectionDomain
+
+[Object:  - protectiondomain2]
+X=727
+Y=167
+Name=protectiondomain2
+Typ=java.security.ProtectionDomain
+
+[Object:  - protectiondomain3]
+X=701
+Y=177
+Name=protectiondomain3
+Typ=java.security.ProtectionDomain
+
+[Object:  - protectiondomain4]
+X=695
+Y=164
+Name=protectiondomain4
+Typ=java.security.ProtectionDomain
+
+[Box:  - Sortieren]
+X=1364
+Y=375
+ShowParameter=4
+ShowIcons=2
+FontSize=12
+FontName=Segoe UI
+
+[Box:  - Stack<ContentType>]
+X=20
+Y=21
+ShowParameter=4
+ShowIcons=2
+FontSize=12
+FontName=Segoe UI
+
+[Box:  - Stack<ContentType>$StackNode]
+X=18
+Y=241
+ShowParameter=4
+ShowIcons=2
+FontSize=12
+FontName=Segoe UI
+
+[Object:  - stack1]
+X=697
+Y=161
+Name=stack1
+Typ=java.util.Stack
+
+[Object:  - stack2]
+X=690
+Y=172
+Name=stack2
+Typ=java.util.Stack
+
+[Object:  - url1]
+X=682
+Y=172
+Name=url1
+Typ=java.net.URL
+
+[Object:  - url10]
+X=697
+Y=183
+Name=url10
+Typ=java.net.URL
+
+[Object:  - url11]
+X=687
+Y=173
+Name=url11
+Typ=java.net.URL
+
+[Object:  - url12]
+X=693
+Y=198
+Name=url12
+Typ=java.net.URL
+
+[Object:  - url13]
+X=697
+Y=201
+Name=url13
+Typ=java.net.URL
+
+[Object:  - url14]
+X=697
+Y=165
+Name=url14
+Typ=java.net.URL
+
+[Object:  - url15]
+X=687
+Y=185
+Name=url15
+Typ=java.net.URL
+
+[Object:  - url16]
+X=726
+Y=194
+Name=url16
+Typ=java.net.URL
+
+[Object:  - url17]
+X=694
+Y=168
+Name=url17
+Typ=java.net.URL
+
+[Object:  - url18]
+X=705
+Y=198
+Name=url18
+Typ=java.net.URL
+
+[Object:  - url19]
+X=733
+Y=177
+Name=url19
+Typ=java.net.URL
+
+[Object:  - url2]
+X=689
+Y=160
+Name=url2
+Typ=java.net.URL
+
+[Object:  - url20]
+X=719
+Y=160
+Name=url20
+Typ=java.net.URL
+
+[Object:  - url21]
+X=721
+Y=160
+Name=url21
+Typ=java.net.URL
+
+[Object:  - url22]
+X=724
+Y=187
+Name=url22
+Typ=java.net.URL
+
+[Object:  - url23]
+X=702
+Y=161
+Name=url23
+Typ=java.net.URL
+
+[Object:  - url24]
+X=676
+Y=193
+Name=url24
+Typ=java.net.URL
+
+[Object:  - url25]
+X=690
+Y=171
+Name=url25
+Typ=java.net.URL
+
+[Object:  - url26]
+X=725
+Y=195
+Name=url26
+Typ=java.net.URL
+
+[Object:  - url27]
+X=713
+Y=185
+Name=url27
+Typ=java.net.URL
+
+[Object:  - url28]
+X=724
+Y=158
+Name=url28
+Typ=java.net.URL
+
+[Object:  - url29]
+X=680
+Y=205
+Name=url29
+Typ=java.net.URL
+
+[Object:  - url3]
+X=696
+Y=182
+Name=url3
+Typ=java.net.URL
+
+[Object:  - url30]
+X=704
+Y=198
+Name=url30
+Typ=java.net.URL
+
+[Object:  - url4]
+X=712
+Y=159
+Name=url4
+Typ=java.net.URL
+
+[Object:  - url5]
+X=712
+Y=197
+Name=url5
+Typ=java.net.URL
+
+[Object:  - url6]
+X=704
+Y=190
+Name=url6
+Typ=java.net.URL
+
+[Object:  - url7]
+X=688
+Y=194
+Name=url7
+Typ=java.net.URL
+
+[Object:  - url8]
+X=674
+Y=204
+Name=url8
+Typ=java.net.URL
+
+[Object:  - url9]
+X=704
+Y=163
+Name=url9
+Typ=java.net.URL
+
+[Object:  - urlclasspath$fileloader1]
+X=719
+Y=202
+Name=urlclasspath$fileloader1
+Typ=sun.misc.URLClassPath$FileLoader
+
+[Object:  - urlclasspath$fileloader2]
+X=700
+Y=167
+Name=urlclasspath$fileloader2
+Typ=sun.misc.URLClassPath$FileLoader
+
+[Object:  - urlclasspath$jarloader1]
+X=728
+Y=172
+Name=urlclasspath$jarloader1
+Typ=sun.misc.URLClassPath$JarLoader
+
+[Object:  - urlclasspath$jarloader10]
+X=690
+Y=175
+Name=urlclasspath$jarloader10
+Typ=sun.misc.URLClassPath$JarLoader
+
+[Object:  - urlclasspath$jarloader11]
+X=683
+Y=166
+Name=urlclasspath$jarloader11
+Typ=sun.misc.URLClassPath$JarLoader
+
+[Object:  - urlclasspath$jarloader12]
+X=724
+Y=206
+Name=urlclasspath$jarloader12
+Typ=sun.misc.URLClassPath$JarLoader
+
+[Object:  - urlclasspath$jarloader13]
+X=730
+Y=199
+Name=urlclasspath$jarloader13
+Typ=sun.misc.URLClassPath$JarLoader
+
+[Object:  - urlclasspath$jarloader14]
+X=698
+Y=158
+Name=urlclasspath$jarloader14
+Typ=sun.misc.URLClassPath$JarLoader
+
+[Object:  - urlclasspath$jarloader2]
+X=698
+Y=170
+Name=urlclasspath$jarloader2
+Typ=sun.misc.URLClassPath$JarLoader
+
+[Object:  - urlclasspath$jarloader3]
+X=724
+Y=183
+Name=urlclasspath$jarloader3
+Typ=sun.misc.URLClassPath$JarLoader
+
+[Object:  - urlclasspath$jarloader4]
+X=726
+Y=173
+Name=urlclasspath$jarloader4
+Typ=sun.misc.URLClassPath$JarLoader
+
+[Object:  - urlclasspath$jarloader5]
+X=721
+Y=158
+Name=urlclasspath$jarloader5
+Typ=sun.misc.URLClassPath$JarLoader
+
+[Object:  - urlclasspath$jarloader6]
+X=721
+Y=152
+Name=urlclasspath$jarloader6
+Typ=sun.misc.URLClassPath$JarLoader
+
+[Object:  - urlclasspath$jarloader7]
+X=681
+Y=165
+Name=urlclasspath$jarloader7
+Typ=sun.misc.URLClassPath$JarLoader
+
+[Object:  - urlclasspath$jarloader8]
+X=693
+Y=179
+Name=urlclasspath$jarloader8
+Typ=sun.misc.URLClassPath$JarLoader
+
+[Object:  - urlclasspath$jarloader9]
+X=718
+Y=162
+Name=urlclasspath$jarloader9
+Typ=sun.misc.URLClassPath$JarLoader
+
+[Object:  - urlclasspath1]
+X=681
+Y=154
+Name=urlclasspath1
+Typ=sun.misc.URLClassPath
+
+[Object:  - urlclasspath2]
+X=694
+Y=206
+Name=urlclasspath2
+Typ=sun.misc.URLClassPath
+
+[Object:  - utf_8$decoder1]
+X=686
+Y=168
+Name=utf_8$decoder1
+Typ=sun.nio.cs.UTF_8$Decoder
+
+[Object:  - utf_8$decoder2]
+X=704
+Y=216
+Name=utf_8$decoder2
+Typ=sun.nio.cs.UTF_8$Decoder
+
+[Object:  - utf_8$encoder1]
+X=691
+Y=211
+Name=utf_8$encoder1
+Typ=sun.nio.cs.UTF_8$Encoder
+
+[Object:  - utf_8$encoder2]
+X=697
+Y=166
+Name=utf_8$encoder2
+Typ=sun.nio.cs.UTF_8$Encoder
+
+[Object:  - utf_81]
+X=727
+Y=180
+Name=utf_81
+Typ=sun.nio.cs.UTF_8
+
+[Object:  - vector1]
+X=685
+Y=183
+Name=vector1
+Typ=java.util.Vector
+
+[Object:  - vector2]
+X=678
+Y=199
+Name=vector2
+Typ=java.util.Vector
+
+[Object:  - vector3]
+X=675
+Y=212
+Name=vector3
+Typ=java.util.Vector
+
+[Object:  - vector4]
+X=670
+Y=169
+Name=vector4
+Typ=java.util.Vector
+
+[Object:  - vector5]
+X=699
+Y=175
+Name=vector5
+Typ=java.util.Vector
+
+[Object:  - vector8]
+X=704
+Y=196
+Name=vector8
+Typ=java.util.Vector
+
+[Object:  - weakhashmap$entry1]
+X=711
+Y=206
+Name=weakhashmap$entry1
+Typ=java.util.WeakHashMap$Entry
+
+[Object:  - weakhashmap$entryset1]
+X=715
+Y=187
+Name=weakhashmap$entryset1
+Typ=java.util.WeakHashMap$EntrySet
+
+[Object:  - weakhashmap$entryset2]
+X=703
+Y=182
+Name=weakhashmap$entryset2
+Typ=java.util.WeakHashMap$EntrySet
+
+[Object:  - weakhashmap$entryset3]
+X=691
+Y=193
+Name=weakhashmap$entryset3
+Typ=java.util.WeakHashMap$EntrySet
+
+[Object:  - weakhashmap$entryset4]
+X=711
+Y=155
+Name=weakhashmap$entryset4
+Typ=java.util.WeakHashMap$EntrySet
+
+[Object:  - weakhashmap1]
+X=683
+Y=176
+Name=weakhashmap1
+Typ=java.util.WeakHashMap
+
+[Object:  - weakhashmap2]
+X=721
+Y=179
+Name=weakhashmap2
+Typ=java.util.WeakHashMap
+
+[Object:  - weakhashmap3]
+X=669
+Y=155
+Name=weakhashmap3
+Typ=java.util.WeakHashMap
+
+[Object:  - weakhashmap4]
+X=695
+Y=163
+Name=weakhashmap4
+Typ=java.util.WeakHashMap
+
+[Object:  - zipcoder1]
+X=710
+Y=168
+Name=zipcoder1
+Typ=java.util.zip.ZipCoder
+
+[Object:  - zipcoder2]
+X=703
+Y=198
+Name=zipcoder2
+Typ=java.util.zip.ZipCoder
+
+[Object:  - zipfile$zipfileinflaterinputstream1]
+X=713
+Y=164
+Name=zipfile$zipfileinflaterinputstream1
+Typ=java.util.zip.ZipFile$ZipFileInflaterInputStream
+
+[Object:  - zipfile$zipfileinputstream1]
+X=713
+Y=180
+Name=zipfile$zipfileinputstream1
+Typ=java.util.zip.ZipFile$ZipFileInputStream
+
+[Object:  - zstreamref1]
+X=715
+Y=180
+Name=zstreamref1
+Typ=java.util.zip.ZStreamRef
+
+[Object:  - zstreamref2]
+X=699
+Y=191
+Name=zstreamref2
+Typ=java.util.zip.ZStreamRef
+
+[Diagram]
+comments=0
+OffsetX=13
+OffsetY=0
+Visibility=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=0
+ShowConnections=0
+Fontname=Segoe UI
+Fontsize=12
+ShowObjectDiagram=0
+
+[Connections]
+V0=-ERR java.lang.NoSuchMethodError: palindromPruefen
+#GUI#InstanceOf####0#0#0###0#0
+V1=gui1#GUI#InstanceOf####0#0#0###0#0
+V2=Stack<ContentType>#Stack<ContentType>$StackNode#AssociationDirected####0#0#0###0#0
+V3=accesscontrolcontext1#protectiondomain1#AssociationDirected####0#0#0###0#0
+V4=accesscontrolcontext4#protectiondomain1#AssociationDirected####0#0#0###0#0
+V5=arraydeque1#inflater1#AssociationDirected####0#0#0###0#0
+V6=arraylist2#url2#AssociationDirected####0#0#0###0#0
+V7=arraylist2#url1#AssociationDirected####0#0#0###0#0
+V8=arraylist2#url3#AssociationDirected####0#0#0###0#0
+V9=arraylist3#urlclasspath$fileloader1#AssociationDirected####0#0#0###0#0
+V10=arraylist3#urlclasspath$fileloader2#AssociationDirected####0#0#0###0#0
+V11=arraylist3#urlclasspath$jarloader1#AssociationDirected####0#0#0###0#0
+V12=arraylist4#url4#AssociationDirected####0#0#0###0#0
+V13=arraylist4#url5#AssociationDirected####0#0#0###0#0
+V14=arraylist4#url6#AssociationDirected####0#0#0###0#0
+V15=arraylist4#url7#AssociationDirected####0#0#0###0#0
+V16=arraylist4#url8#AssociationDirected####0#0#0###0#0
+V17=arraylist4#url9#AssociationDirected####0#0#0###0#0
+V18=arraylist4#url10#AssociationDirected####0#0#0###0#0
+V19=arraylist4#url11#AssociationDirected####0#0#0###0#0
+V20=arraylist4#url12#AssociationDirected####0#0#0###0#0
+V21=arraylist4#url13#AssociationDirected####0#0#0###0#0
+V22=arraylist4#url14#AssociationDirected####0#0#0###0#0
+V23=arraylist4#url15#AssociationDirected####0#0#0###0#0
+V24=arraylist4#url16#AssociationDirected####0#0#0###0#0
+V25=arraylist5#urlclasspath$jarloader2#AssociationDirected####0#0#0###0#0
+V26=arraylist5#urlclasspath$jarloader3#AssociationDirected####0#0#0###0#0
+V27=arraylist5#urlclasspath$jarloader4#AssociationDirected####0#0#0###0#0
+V28=arraylist5#urlclasspath$jarloader5#AssociationDirected####0#0#0###0#0
+V29=arraylist5#urlclasspath$jarloader6#AssociationDirected####0#0#0###0#0
+V30=arraylist5#urlclasspath$jarloader7#AssociationDirected####0#0#0###0#0
+V31=arraylist5#urlclasspath$jarloader8#AssociationDirected####0#0#0###0#0
+V32=arraylist5#urlclasspath$jarloader9#AssociationDirected####0#0#0###0#0
+V33=arraylist5#urlclasspath$jarloader10#AssociationDirected####0#0#0###0#0
+V34=arraylist5#urlclasspath$jarloader11#AssociationDirected####0#0#0###0#0
+V35=arraylist5#urlclasspath$jarloader12#AssociationDirected####0#0#0###0#0
+V36=arraylist5#urlclasspath$jarloader13#AssociationDirected####0#0#0###0#0
+V37=arraylist5#urlclasspath$jarloader14#AssociationDirected####0#0#0###0#0
+V38=arraylist6#filepermission1#AssociationDirected####0#0#0###0#0
+V39=arraylist7#filepermission2#AssociationDirected####0#0#0###0#0
+V40=basicpermissioncollection1#hashmap10#AssociationDirected####0#0#0###0#0
+V41=basicpermissioncollection2#hashmap14#AssociationDirected####0#0#0###0#0
+V42=codesource1#url1#AssociationDirected####0#0#0###0#0
+V43=codesource4#url3#AssociationDirected####0#0#0###0#0
+V44=collections$synchronizedset1#hashset1#AssociationDirected####0#0#0###0#0
+V45=collections$synchronizedset1#collections$synchronizedset1#AssociationDirected####1#0#0###0#0
+V46=collections$synchronizedset2#hashset2#AssociationDirected####0#0#0###0#0
+V47=collections$synchronizedset2#collections$synchronizedset2#AssociationDirected####1#0#0###0#0
+V48=concurrenthashmap$node100#concurrenthashmap$node158#AssociationDirected####0#0#0###0#0
+V49=concurrenthashmap$node103#concurrenthashmap$node131#AssociationDirected####0#0#0###0#0
+V50=concurrenthashmap$node111#concurrenthashmap$node132#AssociationDirected####0#0#0###0#0
+V51=concurrenthashmap$node114#concurrenthashmap$node133#AssociationDirected####0#0#0###0#0
+V52=concurrenthashmap$node115#concurrenthashmap$node159#AssociationDirected####0#0#0###0#0
+V53=concurrenthashmap$node118#concurrenthashmap$node134#AssociationDirected####0#0#0###0#0
+V54=concurrenthashmap$node12#concurrenthashmap$node101#AssociationDirected####0#0#0###0#0
+V55=concurrenthashmap$node126#concurrenthashmap$node135#AssociationDirected####0#0#0###0#0
+V56=concurrenthashmap$node127#concurrenthashmap$node136#AssociationDirected####0#0#0###0#0
+V57=concurrenthashmap$node139#concurrenthashmap$node160#AssociationDirected####0#0#0###0#0
+V58=concurrenthashmap$node148#concurrenthashmap$node161#AssociationDirected####0#0#0###0#0
+V59=concurrenthashmap$node15#concurrenthashmap$node155#AssociationDirected####0#0#0###0#0
+V60=concurrenthashmap$node17#concurrenthashmap$node102#AssociationDirected####0#0#0###0#0
+V61=concurrenthashmap$node18#concurrenthashmap$node103#AssociationDirected####0#0#0###0#0
+V62=concurrenthashmap$node2#concurrenthashmap$node98#AssociationDirected####0#0#0###0#0
+V63=concurrenthashmap$node24#concurrenthashmap$node104#AssociationDirected####0#0#0###0#0
+V64=concurrenthashmap$node25#concurrenthashmap$node105#AssociationDirected####0#0#0###0#0
+V65=concurrenthashmap$node30#concurrenthashmap$node106#AssociationDirected####0#0#0###0#0
+V66=concurrenthashmap$node33#concurrenthashmap$node107#AssociationDirected####0#0#0###0#0
+V67=concurrenthashmap$node35#concurrenthashmap$node108#AssociationDirected####0#0#0###0#0
+V68=concurrenthashmap$node38#concurrenthashmap$node109#AssociationDirected####0#0#0###0#0
+V69=concurrenthashmap$node41#concurrenthashmap$node110#AssociationDirected####0#0#0###0#0
+V70=concurrenthashmap$node43#concurrenthashmap$node111#AssociationDirected####0#0#0###0#0
+V71=concurrenthashmap$node46#concurrenthashmap$node112#AssociationDirected####0#0#0###0#0
+V72=concurrenthashmap$node48#certificate1#AssociationDirected####0#0#0###0#0
+V73=concurrenthashmap$node5#concurrenthashmap$node99#AssociationDirected####0#0#0###0#0
+V74=concurrenthashmap$node50#concurrenthashmap$node113#AssociationDirected####0#0#0###0#0
+V75=concurrenthashmap$node53#concurrenthashmap$node114#AssociationDirected####0#0#0###0#0
+V76=concurrenthashmap$node54#concurrenthashmap$node156#AssociationDirected####0#0#0###0#0
+V77=concurrenthashmap$node57#concurrenthashmap$node115#AssociationDirected####0#0#0###0#0
+V78=concurrenthashmap$node6#concurrenthashmap$node154#AssociationDirected####0#0#0###0#0
+V79=concurrenthashmap$node60#concurrenthashmap$node116#AssociationDirected####0#0#0###0#0
+V80=concurrenthashmap$node63#concurrenthashmap$node157#AssociationDirected####0#0#0###0#0
+V81=concurrenthashmap$node65#concurrenthashmap$node117#AssociationDirected####0#0#0###0#0
+V82=concurrenthashmap$node66#concurrenthashmap$node118#AssociationDirected####0#0#0###0#0
+V83=concurrenthashmap$node72#concurrenthashmap$node119#AssociationDirected####0#0#0###0#0
+V84=concurrenthashmap$node73#concurrenthashmap$node120#AssociationDirected####0#0#0###0#0
+V85=concurrenthashmap$node79#concurrenthashmap$node121#AssociationDirected####0#0#0###0#0
+V86=concurrenthashmap$node82#concurrenthashmap$node122#AssociationDirected####0#0#0###0#0
+V87=concurrenthashmap$node85#concurrenthashmap$node123#AssociationDirected####0#0#0###0#0
+V88=concurrenthashmap$node87#concurrenthashmap$node124#AssociationDirected####0#0#0###0#0
+V89=concurrenthashmap$node88#concurrenthashmap$node125#AssociationDirected####0#0#0###0#0
+V90=concurrenthashmap$node9#concurrenthashmap$node100#AssociationDirected####0#0#0###0#0
+V91=concurrenthashmap$node91#concurrenthashmap$node126#AssociationDirected####0#0#0###0#0
+V92=concurrenthashmap$node93#concurrenthashmap$node127#AssociationDirected####0#0#0###0#0
+V93=concurrenthashmap$node95#concurrenthashmap$node128#AssociationDirected####0#0#0###0#0
+V94=concurrenthashmap$node96#concurrenthashmap$node129#AssociationDirected####0#0#0###0#0
+V95=concurrenthashmap$node99#concurrenthashmap$node130#AssociationDirected####0#0#0###0#0
+V96=concurrenthashmap1#concurrenthashmap$node1#AssociationDirected####0#0#0###0#0
+V97=concurrenthashmap1#concurrenthashmap$node2#AssociationDirected####0#0#0###0#0
+V98=concurrenthashmap1#concurrenthashmap$node3#AssociationDirected####0#0#0###0#0
+V99=concurrenthashmap1#concurrenthashmap$node4#AssociationDirected####0#0#0###0#0
+V100=concurrenthashmap1#concurrenthashmap$node5#AssociationDirected####0#0#0###0#0
+V101=concurrenthashmap1#concurrenthashmap$node6#AssociationDirected####0#0#0###0#0
+V102=concurrenthashmap1#concurrenthashmap$node7#AssociationDirected####0#0#0###0#0
+V103=concurrenthashmap1#concurrenthashmap$node8#AssociationDirected####0#0#0###0#0
+V104=concurrenthashmap1#concurrenthashmap$node9#AssociationDirected####0#0#0###0#0
+V105=concurrenthashmap1#concurrenthashmap$node10#AssociationDirected####0#0#0###0#0
+V106=concurrenthashmap1#concurrenthashmap$node11#AssociationDirected####0#0#0###0#0
+V107=concurrenthashmap1#concurrenthashmap$node12#AssociationDirected####0#0#0###0#0
+V108=concurrenthashmap1#concurrenthashmap$node13#AssociationDirected####0#0#0###0#0
+V109=concurrenthashmap1#concurrenthashmap$node14#AssociationDirected####0#0#0###0#0
+V110=concurrenthashmap1#concurrenthashmap$node137#AssociationDirected####0#0#0###0#0
+V111=concurrenthashmap1#concurrenthashmap$node15#AssociationDirected####0#0#0###0#0
+V112=concurrenthashmap1#concurrenthashmap$node16#AssociationDirected####0#0#0###0#0
+V113=concurrenthashmap1#concurrenthashmap$node17#AssociationDirected####0#0#0###0#0
+V114=concurrenthashmap1#concurrenthashmap$node138#AssociationDirected####0#0#0###0#0
+V115=concurrenthashmap1#concurrenthashmap$node18#AssociationDirected####0#0#0###0#0
+V116=concurrenthashmap1#concurrenthashmap$node139#AssociationDirected####0#0#0###0#0
+V117=concurrenthashmap1#concurrenthashmap$node19#AssociationDirected####0#0#0###0#0
+V118=concurrenthashmap1#concurrenthashmap$node20#AssociationDirected####0#0#0###0#0
+V119=concurrenthashmap1#concurrenthashmap$node21#AssociationDirected####0#0#0###0#0
+V120=concurrenthashmap1#concurrenthashmap$node22#AssociationDirected####0#0#0###0#0
+V121=concurrenthashmap1#concurrenthashmap$node23#AssociationDirected####0#0#0###0#0
+V122=concurrenthashmap1#concurrenthashmap$node24#AssociationDirected####0#0#0###0#0
+V123=concurrenthashmap1#concurrenthashmap$node25#AssociationDirected####0#0#0###0#0
+V124=concurrenthashmap1#concurrenthashmap$node26#AssociationDirected####0#0#0###0#0
+V125=concurrenthashmap1#concurrenthashmap$node140#AssociationDirected####0#0#0###0#0
+V126=concurrenthashmap1#concurrenthashmap$node141#AssociationDirected####0#0#0###0#0
+V127=concurrenthashmap1#concurrenthashmap$node27#AssociationDirected####0#0#0###0#0
+V128=concurrenthashmap1#concurrenthashmap$node28#AssociationDirected####0#0#0###0#0
+V129=concurrenthashmap1#concurrenthashmap$node29#AssociationDirected####0#0#0###0#0
+V130=concurrenthashmap1#concurrenthashmap$node142#AssociationDirected####0#0#0###0#0
+V131=concurrenthashmap1#concurrenthashmap$node143#AssociationDirected####0#0#0###0#0
+V132=concurrenthashmap1#concurrenthashmap$node30#AssociationDirected####0#0#0###0#0
+V133=concurrenthashmap1#concurrenthashmap$node31#AssociationDirected####0#0#0###0#0
+V134=concurrenthashmap1#concurrenthashmap$node32#AssociationDirected####0#0#0###0#0
+V135=concurrenthashmap1#concurrenthashmap$node33#AssociationDirected####0#0#0###0#0
+V136=concurrenthashmap1#concurrenthashmap$node34#AssociationDirected####0#0#0###0#0
+V137=concurrenthashmap1#concurrenthashmap$node35#AssociationDirected####0#0#0###0#0
+V138=concurrenthashmap1#concurrenthashmap$node36#AssociationDirected####0#0#0###0#0
+V139=concurrenthashmap1#concurrenthashmap$node37#AssociationDirected####0#0#0###0#0
+V140=concurrenthashmap1#concurrenthashmap$node144#AssociationDirected####0#0#0###0#0
+V141=concurrenthashmap1#concurrenthashmap$node38#AssociationDirected####0#0#0###0#0
+V142=concurrenthashmap1#concurrenthashmap$node39#AssociationDirected####0#0#0###0#0
+V143=concurrenthashmap1#concurrenthashmap$node40#AssociationDirected####0#0#0###0#0
+V144=concurrenthashmap1#concurrenthashmap$node41#AssociationDirected####0#0#0###0#0
+V145=concurrenthashmap1#concurrenthashmap$node42#AssociationDirected####0#0#0###0#0
+V146=concurrenthashmap1#concurrenthashmap$node43#AssociationDirected####0#0#0###0#0
+V147=concurrenthashmap1#concurrenthashmap$node44#AssociationDirected####0#0#0###0#0
+V148=concurrenthashmap1#concurrenthashmap$node45#AssociationDirected####0#0#0###0#0
+V149=concurrenthashmap1#concurrenthashmap$node46#AssociationDirected####0#0#0###0#0
+V150=concurrenthashmap1#concurrenthashmap$node47#AssociationDirected####0#0#0###0#0
+V151=concurrenthashmap1#concurrenthashmap$node145#AssociationDirected####0#0#0###0#0
+V152=concurrenthashmap2#concurrenthashmap$node48#AssociationDirected####0#0#0###0#0
+V153=concurrenthashmap3#concurrenthashmap$node49#AssociationDirected####0#0#0###0#0
+V154=concurrenthashmap3#concurrenthashmap$node50#AssociationDirected####0#0#0###0#0
+V155=concurrenthashmap3#concurrenthashmap$node51#AssociationDirected####0#0#0###0#0
+V156=concurrenthashmap3#concurrenthashmap$node52#AssociationDirected####0#0#0###0#0
+V157=concurrenthashmap3#concurrenthashmap$node53#AssociationDirected####0#0#0###0#0
+V158=concurrenthashmap3#concurrenthashmap$node54#AssociationDirected####0#0#0###0#0
+V159=concurrenthashmap3#concurrenthashmap$node55#AssociationDirected####0#0#0###0#0
+V160=concurrenthashmap3#concurrenthashmap$node56#AssociationDirected####0#0#0###0#0
+V161=concurrenthashmap3#concurrenthashmap$node57#AssociationDirected####0#0#0###0#0
+V162=concurrenthashmap3#concurrenthashmap$node58#AssociationDirected####0#0#0###0#0
+V163=concurrenthashmap3#concurrenthashmap$node59#AssociationDirected####0#0#0###0#0
+V164=concurrenthashmap3#concurrenthashmap$node60#AssociationDirected####0#0#0###0#0
+V165=concurrenthashmap3#concurrenthashmap$node61#AssociationDirected####0#0#0###0#0
+V166=concurrenthashmap3#concurrenthashmap$node62#AssociationDirected####0#0#0###0#0
+V167=concurrenthashmap3#concurrenthashmap$node146#AssociationDirected####0#0#0###0#0
+V168=concurrenthashmap3#concurrenthashmap$node63#AssociationDirected####0#0#0###0#0
+V169=concurrenthashmap3#concurrenthashmap$node64#AssociationDirected####0#0#0###0#0
+V170=concurrenthashmap3#concurrenthashmap$node65#AssociationDirected####0#0#0###0#0
+V171=concurrenthashmap3#concurrenthashmap$node147#AssociationDirected####0#0#0###0#0
+V172=concurrenthashmap3#concurrenthashmap$node66#AssociationDirected####0#0#0###0#0
+V173=concurrenthashmap3#concurrenthashmap$node148#AssociationDirected####0#0#0###0#0
+V174=concurrenthashmap3#concurrenthashmap$node67#AssociationDirected####0#0#0###0#0
+V175=concurrenthashmap3#concurrenthashmap$node68#AssociationDirected####0#0#0###0#0
+V176=concurrenthashmap3#concurrenthashmap$node69#AssociationDirected####0#0#0###0#0
+V177=concurrenthashmap3#concurrenthashmap$node70#AssociationDirected####0#0#0###0#0
+V178=concurrenthashmap3#concurrenthashmap$node71#AssociationDirected####0#0#0###0#0
+V179=concurrenthashmap3#concurrenthashmap$node72#AssociationDirected####0#0#0###0#0
+V180=concurrenthashmap3#concurrenthashmap$node73#AssociationDirected####0#0#0###0#0
+V181=concurrenthashmap3#concurrenthashmap$node74#AssociationDirected####0#0#0###0#0
+V182=concurrenthashmap3#concurrenthashmap$node149#AssociationDirected####0#0#0###0#0
+V183=concurrenthashmap3#concurrenthashmap$node75#AssociationDirected####0#0#0###0#0
+V184=concurrenthashmap3#concurrenthashmap$node76#AssociationDirected####0#0#0###0#0
+V185=concurrenthashmap3#concurrenthashmap$node77#AssociationDirected####0#0#0###0#0
+V186=concurrenthashmap3#concurrenthashmap$node78#AssociationDirected####0#0#0###0#0
+V187=concurrenthashmap3#concurrenthashmap$node150#AssociationDirected####0#0#0###0#0
+V188=concurrenthashmap3#concurrenthashmap$node151#AssociationDirected####0#0#0###0#0
+V189=concurrenthashmap3#concurrenthashmap$node79#AssociationDirected####0#0#0###0#0
+V190=concurrenthashmap3#concurrenthashmap$node80#AssociationDirected####0#0#0###0#0
+V191=concurrenthashmap3#concurrenthashmap$node81#AssociationDirected####0#0#0###0#0
+V192=concurrenthashmap3#concurrenthashmap$node82#AssociationDirected####0#0#0###0#0
+V193=concurrenthashmap3#concurrenthashmap$node83#AssociationDirected####0#0#0###0#0
+V194=concurrenthashmap3#concurrenthashmap$node84#AssociationDirected####0#0#0###0#0
+V195=concurrenthashmap3#concurrenthashmap$node85#AssociationDirected####0#0#0###0#0
+V196=concurrenthashmap3#concurrenthashmap$node86#AssociationDirected####0#0#0###0#0
+V197=concurrenthashmap3#concurrenthashmap$node87#AssociationDirected####0#0#0###0#0
+V198=concurrenthashmap3#concurrenthashmap$node152#AssociationDirected####0#0#0###0#0
+V199=concurrenthashmap3#concurrenthashmap$node88#AssociationDirected####0#0#0###0#0
+V200=concurrenthashmap3#concurrenthashmap$node89#AssociationDirected####0#0#0###0#0
+V201=concurrenthashmap3#concurrenthashmap$node90#AssociationDirected####0#0#0###0#0
+V202=concurrenthashmap3#concurrenthashmap$node91#AssociationDirected####0#0#0###0#0
+V203=concurrenthashmap3#concurrenthashmap$node92#AssociationDirected####0#0#0###0#0
+V204=concurrenthashmap3#concurrenthashmap$node93#AssociationDirected####0#0#0###0#0
+V205=concurrenthashmap3#concurrenthashmap$node94#AssociationDirected####0#0#0###0#0
+V206=concurrenthashmap3#concurrenthashmap$node95#AssociationDirected####0#0#0###0#0
+V207=concurrenthashmap3#concurrenthashmap$node96#AssociationDirected####0#0#0###0#0
+V208=concurrenthashmap3#concurrenthashmap$node97#AssociationDirected####0#0#0###0#0
+V209=concurrenthashmap3#concurrenthashmap$node153#AssociationDirected####0#0#0###0#0
+V210=-ERR java.lang.NoSuchMethodError: palindromPruefen
+#locale1#AssociationDirected####0#0#0###0#0
+V211=-ERR java.lang.NoSuchMethodError: palindromPruefen
+#accesscontrolcontext4#AssociationDirected####0#0#0###0#0
+V212=-ERR java.lang.NoSuchMethodError: palindromPruefen
+#arraylist8#AssociationDirected####0#0#0###0#0
+V213=-ERR java.lang.NoSuchMethodError: palindromPruefen
+#vector8#AssociationDirected####0#0#0###0#0
+V214=filepermissioncollection1#arraylist6#AssociationDirected####0#0#0###0#0
+V215=filepermissioncollection2#arraylist7#AssociationDirected####0#0#0###0#0
+V216=gui1#locale1#AssociationDirected####0#0#0###0#0
+V217=gui1#accesscontrolcontext1#AssociationDirected####0#0#0###0#0
+V218=gui1#arraylist1#AssociationDirected####0#0#0###0#0
+V219=gui1#vector1#AssociationDirected####0#0#0###0#0
+V220=hashmap$entryset1#hashmap1#AssociationDirected####0#0#0###0#0
+V221=hashmap$entryset10#hashmap10#AssociationDirected####0#0#0###0#0
+V222=hashmap$entryset11#hashmap11#AssociationDirected####0#0#0###0#0
+V223=hashmap$entryset12#hashmap12#AssociationDirected####0#0#0###0#0
+V224=hashmap$entryset13#hashmap13#AssociationDirected####0#0#0###0#0
+V225=hashmap$entryset14#hashmap14#AssociationDirected####0#0#0###0#0
+V226=hashmap$entryset2#hashmap2#AssociationDirected####0#0#0###0#0
+V227=hashmap$entryset3#hashmap3#AssociationDirected####0#0#0###0#0
+V228=hashmap$entryset4#hashmap4#AssociationDirected####0#0#0###0#0
+V229=hashmap$entryset5#hashmap5#AssociationDirected####0#0#0###0#0
+V230=hashmap$entryset6#hashmap6#AssociationDirected####0#0#0###0#0
+V231=hashmap$entryset7#hashmap7#AssociationDirected####0#0#0###0#0
+V232=hashmap$entryset8#hashmap8#AssociationDirected####0#0#0###0#0
+V233=hashmap$entryset9#hashmap9#AssociationDirected####0#0#0###0#0
+V234=hashmap$keyset1#hashmap8#AssociationDirected####0#0#0###0#0
+V235=hashmap$keyset2#hashmap9#AssociationDirected####0#0#0###0#0
+V236=hashmap$node1#codesource4#AssociationDirected####0#0#0###0#0
+V237=hashmap$node1#protectiondomain4#AssociationDirected####0#0#0###0#0
+V238=hashmap$node10#urlclasspath$jarloader8#AssociationDirected####0#0#0###0#0
+V239=hashmap$node11#urlclasspath$jarloader3#AssociationDirected####0#0#0###0#0
+V240=hashmap$node12#urlclasspath$jarloader6#AssociationDirected####0#0#0###0#0
+V241=hashmap$node13#urlclasspath$jarloader9#AssociationDirected####0#0#0###0#0
+V242=hashmap$node13#hashmap$node19#AssociationDirected####0#0#0###0#0
+V243=hashmap$node14#urlclasspath$jarloader2#AssociationDirected####0#0#0###0#0
+V244=hashmap$node15#protectiondomain1#AssociationDirected####0#0#0###0#0
+V245=hashmap$node16#protectiondomain4#AssociationDirected####0#0#0###0#0
+V246=hashmap$node17#urlclasspath$fileloader2#AssociationDirected####0#0#0###0#0
+V247=hashmap$node17#hashmap$node20#AssociationDirected####0#0#0###0#0
+V248=hashmap$node18#urlclasspath$jarloader10#AssociationDirected####0#0#0###0#0
+V249=hashmap$node18#hashmap$node22#AssociationDirected####0#0#0###0#0
+V250=hashmap$node19#urlclasspath$jarloader11#AssociationDirected####0#0#0###0#0
+V251=hashmap$node19#hashmap$node23#AssociationDirected####0#0#0###0#0
+V252=hashmap$node2#codesource1#AssociationDirected####0#0#0###0#0
+V253=hashmap$node2#protectiondomain1#AssociationDirected####0#0#0###0#0
+V254=hashmap$node20#urlclasspath$jarloader1#AssociationDirected####0#0#0###0#0
+V255=hashmap$node22#urlclasspath$jarloader13#AssociationDirected####0#0#0###0#0
+V256=hashmap$node23#urlclasspath$jarloader14#AssociationDirected####0#0#0###0#0
+V257=hashmap$node24#filepermissioncollection2#AssociationDirected####0#0#0###0#0
+V258=hashmap$node25#basicpermissioncollection2#AssociationDirected####0#0#0###0#0
+V259=hashmap$node26#linkedlist1#AssociationDirected####0#0#0###0#0
+V260=hashmap$node27#linkedlist2#AssociationDirected####0#0#0###0#0
+V261=hashmap$node28#linkedlist3#AssociationDirected####0#0#0###0#0
+V262=hashmap$node29#linkedlist4#AssociationDirected####0#0#0###0#0
+V263=hashmap$node3#filepermissioncollection1#AssociationDirected####0#0#0###0#0
+V264=hashmap$node30#linkedlist5#AssociationDirected####0#0#0###0#0
+V265=hashmap$node31#linkedlist6#AssociationDirected####0#0#0###0#0
+V266=hashmap$node32#linkedlist7#AssociationDirected####0#0#0###0#0
+V267=hashmap$node33#linkedlist8#AssociationDirected####0#0#0###0#0
+V268=hashmap$node33#hashmap$node51#AssociationDirected####0#0#0###0#0
+V269=hashmap$node34#linkedlist9#AssociationDirected####0#0#0###0#0
+V270=hashmap$node35#linkedlist10#AssociationDirected####0#0#0###0#0
+V271=hashmap$node36#linkedlist11#AssociationDirected####0#0#0###0#0
+V272=hashmap$node37#linkedlist12#AssociationDirected####0#0#0###0#0
+V273=hashmap$node38#linkedlist13#AssociationDirected####0#0#0###0#0
+V274=hashmap$node39#linkedlist14#AssociationDirected####0#0#0###0#0
+V275=hashmap$node39#hashmap$node52#AssociationDirected####0#0#0###0#0
+V276=hashmap$node4#basicpermissioncollection1#AssociationDirected####0#0#0###0#0
+V277=hashmap$node40#linkedlist15#AssociationDirected####0#0#0###0#0
+V278=hashmap$node41#linkedlist16#AssociationDirected####0#0#0###0#0
+V279=hashmap$node41#hashmap$node53#AssociationDirected####0#0#0###0#0
+V280=hashmap$node42#linkedlist17#AssociationDirected####0#0#0###0#0
+V281=hashmap$node43#linkedlist18#AssociationDirected####0#0#0###0#0
+V282=hashmap$node44#linkedlist19#AssociationDirected####0#0#0###0#0
+V283=hashmap$node45#linkedlist20#AssociationDirected####0#0#0###0#0
+V284=hashmap$node46#linkedlist21#AssociationDirected####0#0#0###0#0
+V285=hashmap$node47#linkedlist22#AssociationDirected####0#0#0###0#0
+V286=hashmap$node47#hashmap$node54#AssociationDirected####0#0#0###0#0
+V287=hashmap$node48#linkedlist23#AssociationDirected####0#0#0###0#0
+V288=hashmap$node49#linkedlist24#AssociationDirected####0#0#0###0#0
+V289=hashmap$node5#urlclasspath$fileloader1#AssociationDirected####0#0#0###0#0
+V290=hashmap$node5#hashmap$node17#AssociationDirected####0#0#0###0#0
+V291=hashmap$node50#linkedlist25#AssociationDirected####0#0#0###0#0
+V292=hashmap$node51#linkedlist26#AssociationDirected####0#0#0###0#0
+V293=hashmap$node52#linkedlist27#AssociationDirected####0#0#0###0#0
+V294=hashmap$node52#hashmap$node55#AssociationDirected####0#0#0###0#0
+V295=hashmap$node53#linkedlist28#AssociationDirected####0#0#0###0#0
+V296=hashmap$node54#linkedlist29#AssociationDirected####0#0#0###0#0
+V297=hashmap$node55#linkedlist30#AssociationDirected####0#0#0###0#0
+V298=hashmap$node6#urlclasspath$jarloader5#AssociationDirected####0#0#0###0#0
+V299=hashmap$node6#hashmap$node18#AssociationDirected####0#0#0###0#0
+V300=hashmap$node7#urlclasspath$jarloader7#AssociationDirected####0#0#0###0#0
+V301=hashmap$node8#urlclasspath$jarloader12#AssociationDirected####0#0#0###0#0
+V302=hashmap$node9#urlclasspath$jarloader4#AssociationDirected####0#0#0###0#0
+V303=hashmap$values1#hashmap3#AssociationDirected####0#0#0###0#0
+V304=hashmap$values2#hashmap10#AssociationDirected####0#0#0###0#0
+V305=hashmap$values3#hashmap11#AssociationDirected####0#0#0###0#0
+V306=hashmap$values4#hashmap14#AssociationDirected####0#0#0###0#0
+V307=hashmap1#hashmap$entryset1#AssociationDirected####0#0#0###0#0
+V308=hashmap10#hashmap$values2#AssociationDirected####0#0#0###0#0
+V309=hashmap10#hashmap$node21#AssociationDirected####0#0#0###0#0
+V310=hashmap10#hashmap$entryset10#AssociationDirected####0#0#0###0#0
+V311=hashmap11#hashmap$values3#AssociationDirected####0#0#0###0#0
+V312=hashmap11#hashmap$node24#AssociationDirected####0#0#0###0#0
+V313=hashmap11#hashmap$node25#AssociationDirected####0#0#0###0#0
+V314=hashmap11#hashmap$entryset11#AssociationDirected####0#0#0###0#0
+V315=hashmap12#hashmap$node26#AssociationDirected####0#0#0###0#0
+V316=hashmap12#hashmap$node27#AssociationDirected####0#0#0###0#0
+V317=hashmap12#hashmap$node28#AssociationDirected####0#0#0###0#0
+V318=hashmap12#hashmap$node29#AssociationDirected####0#0#0###0#0
+V319=hashmap12#hashmap$node30#AssociationDirected####0#0#0###0#0
+V320=hashmap12#hashmap$node31#AssociationDirected####0#0#0###0#0
+V321=hashmap12#hashmap$node32#AssociationDirected####0#0#0###0#0
+V322=hashmap12#hashmap$node33#AssociationDirected####0#0#0###0#0
+V323=hashmap12#hashmap$node34#AssociationDirected####0#0#0###0#0
+V324=hashmap12#hashmap$node35#AssociationDirected####0#0#0###0#0
+V325=hashmap12#hashmap$node36#AssociationDirected####0#0#0###0#0
+V326=hashmap12#hashmap$node37#AssociationDirected####0#0#0###0#0
+V327=hashmap12#hashmap$node38#AssociationDirected####0#0#0###0#0
+V328=hashmap12#hashmap$node39#AssociationDirected####0#0#0###0#0
+V329=hashmap12#hashmap$node40#AssociationDirected####0#0#0###0#0
+V330=hashmap12#hashmap$node41#AssociationDirected####0#0#0###0#0
+V331=hashmap12#hashmap$node42#AssociationDirected####0#0#0###0#0
+V332=hashmap12#hashmap$node43#AssociationDirected####0#0#0###0#0
+V333=hashmap12#hashmap$node44#AssociationDirected####0#0#0###0#0
+V334=hashmap12#hashmap$node45#AssociationDirected####0#0#0###0#0
+V335=hashmap12#hashmap$node46#AssociationDirected####0#0#0###0#0
+V336=hashmap12#hashmap$node47#AssociationDirected####0#0#0###0#0
+V337=hashmap12#hashmap$node48#AssociationDirected####0#0#0###0#0
+V338=hashmap12#hashmap$node49#AssociationDirected####0#0#0###0#0
+V339=hashmap12#hashmap$entryset12#AssociationDirected####0#0#0###0#0
+V340=hashmap13#hashmap$node50#AssociationDirected####0#0#0###0#0
+V341=hashmap13#hashmap$entryset13#AssociationDirected####0#0#0###0#0
+V342=hashmap14#hashmap$values4#AssociationDirected####0#0#0###0#0
+V343=hashmap14#hashmap$node56#AssociationDirected####0#0#0###0#0
+V344=hashmap14#hashmap$entryset14#AssociationDirected####0#0#0###0#0
+V345=hashmap2#hashmap$node1#AssociationDirected####0#0#0###0#0
+V346=hashmap2#hashmap$node2#AssociationDirected####0#0#0###0#0
+V347=hashmap2#hashmap$entryset2#AssociationDirected####0#0#0###0#0
+V348=hashmap3#hashmap$values1#AssociationDirected####0#0#0###0#0
+V349=hashmap3#hashmap$node3#AssociationDirected####0#0#0###0#0
+V350=hashmap3#hashmap$node4#AssociationDirected####0#0#0###0#0
+V351=hashmap3#hashmap$entryset3#AssociationDirected####0#0#0###0#0
+V352=hashmap4#hashmap$entryset4#AssociationDirected####0#0#0###0#0
+V353=hashmap5#hashmap$entryset5#AssociationDirected####0#0#0###0#0
+V354=hashmap6#hashmap$node5#AssociationDirected####0#0#0###0#0
+V355=hashmap6#hashmap$entryset6#AssociationDirected####0#0#0###0#0
+V356=hashmap7#hashmap$node6#AssociationDirected####0#0#0###0#0
+V357=hashmap7#hashmap$node7#AssociationDirected####0#0#0###0#0
+V358=hashmap7#hashmap$node8#AssociationDirected####0#0#0###0#0
+V359=hashmap7#hashmap$node9#AssociationDirected####0#0#0###0#0
+V360=hashmap7#hashmap$node10#AssociationDirected####0#0#0###0#0
+V361=hashmap7#hashmap$node11#AssociationDirected####0#0#0###0#0
+V362=hashmap7#hashmap$node12#AssociationDirected####0#0#0###0#0
+V363=hashmap7#hashmap$node13#AssociationDirected####0#0#0###0#0
+V364=hashmap7#hashmap$node14#AssociationDirected####0#0#0###0#0
+V365=hashmap7#hashmap$entryset7#AssociationDirected####0#0#0###0#0
+V366=hashmap8#hashmap$keyset1#AssociationDirected####0#0#0###0#0
+V367=hashmap8#hashmap$node15#AssociationDirected####0#0#0###0#0
+V368=hashmap8#hashmap$node16#AssociationDirected####0#0#0###0#0
+V369=hashmap8#hashmap$entryset8#AssociationDirected####0#0#0###0#0
+V370=hashmap9#hashmap$keyset2#AssociationDirected####0#0#0###0#0
+V371=hashmap9#hashmap$entryset9#AssociationDirected####0#0#0###0#0
+V372=hashset1#hashmap8#AssociationDirected####0#0#0###0#0
+V373=hashset2#hashmap9#AssociationDirected####0#0#0###0#0
+V374=inflater1#zstreamref1#AssociationDirected####0#0#0###0#0
+V375=inflater2#zstreamref2#AssociationDirected####0#0#0###0#0
+V376=jarfile1#zipcoder1#AssociationDirected####0#0#0###0#0
+V377=jarfile1#weakhashmap3#AssociationDirected####0#0#0###0#0
+V378=jarfile1#arraydeque1#AssociationDirected####0#0#0###0#0
+V379=jarfile2#zipcoder2#AssociationDirected####0#0#0###0#0
+V380=jarfile2#weakhashmap4#AssociationDirected####0#0#0###0#0
+V381=jarfile2#arraydeque2#AssociationDirected####0#0#0###0#0
+V382=jarindex1#hashmap12#AssociationDirected####0#0#0###0#0
+V383=jarindex1#hashmap13#AssociationDirected####0#0#0###0#0
+V384=launcher$appclassloader1#launcher$extclassloader1#AssociationDirected####0#0#0###0#0
+V385=launcher$appclassloader1#concurrenthashmap1#AssociationDirected####0#0#0###0#0
+V386=launcher$appclassloader1#concurrenthashmap2#AssociationDirected####0#0#0###0#0
+V387=launcher$appclassloader1#vector2#AssociationDirected####0#0#0###0#0
+V388=launcher$appclassloader1#protectiondomain2#AssociationDirected####0#0#0###0#0
+V389=launcher$appclassloader1#collections$synchronizedset1#AssociationDirected####0#0#0###0#0
+V390=launcher$appclassloader1#hashmap1#AssociationDirected####0#0#0###0#0
+V391=launcher$appclassloader1#vector3#AssociationDirected####0#0#0###0#0
+V392=launcher$appclassloader1#hashmap2#AssociationDirected####0#0#0###0#0
+V393=launcher$appclassloader1#urlclasspath1#AssociationDirected####0#0#0###0#0
+V394=launcher$appclassloader1#accesscontrolcontext2#AssociationDirected####0#0#0###0#0
+V395=launcher$appclassloader1#weakhashmap1#AssociationDirected####0#0#0###0#0
+V396=launcher$extclassloader1#concurrenthashmap3#AssociationDirected####0#0#0###0#0
+V397=launcher$extclassloader1#concurrenthashmap4#AssociationDirected####0#0#0###0#0
+V398=launcher$extclassloader1#vector4#AssociationDirected####0#0#0###0#0
+V399=launcher$extclassloader1#protectiondomain3#AssociationDirected####0#0#0###0#0
+V400=launcher$extclassloader1#collections$synchronizedset2#AssociationDirected####0#0#0###0#0
+V401=launcher$extclassloader1#hashmap4#AssociationDirected####0#0#0###0#0
+V402=launcher$extclassloader1#vector5#AssociationDirected####0#0#0###0#0
+V403=launcher$extclassloader1#hashmap5#AssociationDirected####0#0#0###0#0
+V404=launcher$extclassloader1#urlclasspath2#AssociationDirected####0#0#0###0#0
+V405=launcher$extclassloader1#accesscontrolcontext3#AssociationDirected####0#0#0###0#0
+V406=launcher$extclassloader1#weakhashmap2#AssociationDirected####0#0#0###0#0
+V407=linkedlist$node25#linkedlist$node31#AssociationDirected####0#0#0###0#0
+V408=linkedlist$node26#linkedlist$node32#AssociationDirected####0#0#0###0#0
+V409=linkedlist$node31#linkedlist$node34#AssociationDirected####0#0#0###0#0
+V410=linkedlist$node31#linkedlist$node25#AssociationDirected####0#0#0###0#0
+V411=linkedlist$node32#linkedlist$node26#AssociationDirected####0#0#0###0#0
+V412=linkedlist$node32#linkedlist$node35#AssociationDirected####0#0#0###0#0
+V413=linkedlist$node34#linkedlist$node36#AssociationDirected####0#0#0###0#0
+V414=linkedlist$node34#linkedlist$node31#AssociationDirected####0#0#0###0#0
+V415=linkedlist$node35#linkedlist$node32#AssociationDirected####0#0#0###0#0
+V416=linkedlist$node35#linkedlist$node37#AssociationDirected####0#0#0###0#0
+V417=linkedlist$node36#linkedlist$node38#AssociationDirected####0#0#0###0#0
+V418=linkedlist$node36#linkedlist$node34#AssociationDirected####0#0#0###0#0
+V419=linkedlist$node37#linkedlist$node35#AssociationDirected####0#0#0###0#0
+V420=linkedlist$node37#linkedlist$node39#AssociationDirected####0#0#0###0#0
+V421=linkedlist$node38#linkedlist$node40#AssociationDirected####0#0#0###0#0
+V422=linkedlist$node38#linkedlist$node36#AssociationDirected####0#0#0###0#0
+V423=linkedlist$node39#linkedlist$node37#AssociationDirected####0#0#0###0#0
+V424=linkedlist$node39#linkedlist$node41#AssociationDirected####0#0#0###0#0
+V425=linkedlist$node40#linkedlist$node42#AssociationDirected####0#0#0###0#0
+V426=linkedlist$node40#linkedlist$node38#AssociationDirected####0#0#0###0#0
+V427=linkedlist$node41#linkedlist$node39#AssociationDirected####0#0#0###0#0
+V428=linkedlist$node41#linkedlist$node43#AssociationDirected####0#0#0###0#0
+V429=linkedlist$node42#linkedlist$node44#AssociationDirected####0#0#0###0#0
+V430=linkedlist$node42#linkedlist$node40#AssociationDirected####0#0#0###0#0
+V431=linkedlist$node43#linkedlist$node41#AssociationDirected####0#0#0###0#0
+V432=linkedlist$node43#linkedlist$node45#AssociationDirected####0#0#0###0#0
+V433=linkedlist$node44#linkedlist$node46#AssociationDirected####0#0#0###0#0
+V434=linkedlist$node44#linkedlist$node42#AssociationDirected####0#0#0###0#0
+V435=linkedlist$node45#linkedlist$node43#AssociationDirected####0#0#0###0#0
+V436=linkedlist$node45#linkedlist$node47#AssociationDirected####0#0#0###0#0
+V437=linkedlist$node46#linkedlist$node48#AssociationDirected####0#0#0###0#0
+V438=linkedlist$node46#linkedlist$node44#AssociationDirected####0#0#0###0#0
+V439=linkedlist$node47#linkedlist$node45#AssociationDirected####0#0#0###0#0
+V440=linkedlist$node47#linkedlist$node49#AssociationDirected####0#0#0###0#0
+V441=linkedlist$node48#linkedlist$node50#AssociationDirected####0#0#0###0#0
+V442=linkedlist$node48#linkedlist$node46#AssociationDirected####0#0#0###0#0
+V443=linkedlist$node49#linkedlist$node47#AssociationDirected####0#0#0###0#0
+V444=linkedlist$node49#linkedlist$node51#AssociationDirected####0#0#0###0#0
+V445=linkedlist$node50#linkedlist$node52#AssociationDirected####0#0#0###0#0
+V446=linkedlist$node50#linkedlist$node48#AssociationDirected####0#0#0###0#0
+V447=linkedlist$node51#linkedlist$node49#AssociationDirected####0#0#0###0#0
+V448=linkedlist$node51#linkedlist$node53#AssociationDirected####0#0#0###0#0
+V449=linkedlist$node52#linkedlist$node54#AssociationDirected####0#0#0###0#0
+V450=linkedlist$node52#linkedlist$node50#AssociationDirected####0#0#0###0#0
+V451=linkedlist$node53#linkedlist$node51#AssociationDirected####0#0#0###0#0
+V452=linkedlist$node53#linkedlist$node55#AssociationDirected####0#0#0###0#0
+V453=linkedlist$node54#linkedlist$node56#AssociationDirected####0#0#0###0#0
+V454=linkedlist$node54#linkedlist$node52#AssociationDirected####0#0#0###0#0
+V455=linkedlist$node55#linkedlist$node53#AssociationDirected####0#0#0###0#0
+V456=linkedlist$node55#linkedlist$node57#AssociationDirected####0#0#0###0#0
+V457=linkedlist$node56#linkedlist$node58#AssociationDirected####0#0#0###0#0
+V458=linkedlist$node56#linkedlist$node54#AssociationDirected####0#0#0###0#0
+V459=linkedlist$node57#linkedlist$node55#AssociationDirected####0#0#0###0#0
+V460=linkedlist$node57#linkedlist$node58#AssociationDirected####0#0#0###0#0
+V461=linkedlist$node58#linkedlist$node57#AssociationDirected####0#0#0###0#0
+V462=linkedlist$node58#linkedlist$node56#AssociationDirected####0#0#0###0#0
+V463=linkedlist1#linkedlist$node1#AssociationDirected####0#0#0###0#0
+V464=linkedlist10#linkedlist$node10#AssociationDirected####0#0#0###0#0
+V465=linkedlist11#linkedlist$node11#AssociationDirected####0#0#0###0#0
+V466=linkedlist12#linkedlist$node12#AssociationDirected####0#0#0###0#0
+V467=linkedlist13#linkedlist$node13#AssociationDirected####0#0#0###0#0
+V468=linkedlist14#linkedlist$node14#AssociationDirected####0#0#0###0#0
+V469=linkedlist15#linkedlist$node15#AssociationDirected####0#0#0###0#0
+V470=linkedlist16#linkedlist$node16#AssociationDirected####0#0#0###0#0
+V471=linkedlist17#linkedlist$node17#AssociationDirected####0#0#0###0#0
+V472=linkedlist18#linkedlist$node18#AssociationDirected####0#0#0###0#0
+V473=linkedlist19#linkedlist$node19#AssociationDirected####0#0#0###0#0
+V474=linkedlist2#linkedlist$node2#AssociationDirected####0#0#0###0#0
+V475=linkedlist20#linkedlist$node20#AssociationDirected####0#0#0###0#0
+V476=linkedlist21#linkedlist$node21#AssociationDirected####0#0#0###0#0
+V477=linkedlist22#linkedlist$node22#AssociationDirected####0#0#0###0#0
+V478=linkedlist23#linkedlist$node23#AssociationDirected####0#0#0###0#0
+V479=linkedlist24#linkedlist$node24#AssociationDirected####0#0#0###0#0
+V480=linkedlist25#linkedlist$node25#AssociationDirected####0#0#0###0#0
+V481=linkedlist25#linkedlist$node26#AssociationDirected####0#0#0###0#0
+V482=linkedlist26#linkedlist$node27#AssociationDirected####0#0#0###0#0
+V483=linkedlist27#linkedlist$node28#AssociationDirected####0#0#0###0#0
+V484=linkedlist28#linkedlist$node29#AssociationDirected####0#0#0###0#0
+V485=linkedlist29#linkedlist$node30#AssociationDirected####0#0#0###0#0
+V486=linkedlist3#linkedlist$node3#AssociationDirected####0#0#0###0#0
+V487=linkedlist30#linkedlist$node33#AssociationDirected####0#0#0###0#0
+V488=linkedlist4#linkedlist$node4#AssociationDirected####0#0#0###0#0
+V489=linkedlist5#linkedlist$node5#AssociationDirected####0#0#0###0#0
+V490=linkedlist6#linkedlist$node6#AssociationDirected####0#0#0###0#0
+V491=linkedlist7#linkedlist$node7#AssociationDirected####0#0#0###0#0
+V492=linkedlist8#linkedlist$node8#AssociationDirected####0#0#0###0#0
+V493=linkedlist9#linkedlist$node9#AssociationDirected####0#0#0###0#0
+V494=locale1#baselocale1#AssociationDirected####0#0#0###0#0
+V495=permissions1#hashmap3#AssociationDirected####0#0#0###0#0
+V496=permissions2#hashmap11#AssociationDirected####0#0#0###0#0
+V497=protectiondomain$key1#protectiondomain1#AssociationDirected####0#0#0###0#0
+V498=protectiondomain$key2#protectiondomain2#AssociationDirected####0#0#0###0#0
+V499=protectiondomain$key3#protectiondomain3#AssociationDirected####0#0#0###0#0
+V500=protectiondomain$key4#protectiondomain4#AssociationDirected####0#0#0###0#0
+V501=protectiondomain1#codesource1#AssociationDirected####0#0#0###0#0
+V502=protectiondomain1#launcher$appclassloader1#AssociationDirected####0#0#0###0#0
+V503=protectiondomain1#permissions1#AssociationDirected####0#0#0###0#0
+V504=protectiondomain1#protectiondomain$key1#AssociationDirected####0#0#0###0#0
+V505=protectiondomain2#codesource2#AssociationDirected####0#0#0###0#0
+V506=protectiondomain2#launcher$appclassloader1#AssociationDirected####0#0#0###0#0
+V507=protectiondomain2#protectiondomain$key2#AssociationDirected####0#0#0###0#0
+V508=protectiondomain3#codesource3#AssociationDirected####0#0#0###0#0
+V509=protectiondomain3#launcher$extclassloader1#AssociationDirected####0#0#0###0#0
+V510=protectiondomain3#protectiondomain$key3#AssociationDirected####0#0#0###0#0
+V511=protectiondomain4#codesource4#AssociationDirected####0#0#0###0#0
+V512=protectiondomain4#launcher$appclassloader1#AssociationDirected####0#0#0###0#0
+V513=protectiondomain4#permissions2#AssociationDirected####0#0#0###0#0
+V514=protectiondomain4#protectiondomain$key4#AssociationDirected####0#0#0###0#0
+V515=url1#handler1#AssociationDirected####0#0#0###0#0
+V516=url10#handler1#AssociationDirected####0#0#0###0#0
+V517=url11#handler1#AssociationDirected####0#0#0###0#0
+V518=url12#handler1#AssociationDirected####0#0#0###0#0
+V519=url13#handler1#AssociationDirected####0#0#0###0#0
+V520=url14#handler1#AssociationDirected####0#0#0###0#0
+V521=url15#handler1#AssociationDirected####0#0#0###0#0
+V522=url16#handler1#AssociationDirected####0#0#0###0#0
+V523=url17#handler2#AssociationDirected####0#0#0###0#0
+V524=url18#handler3#AssociationDirected####0#0#0###0#0
+V525=url19#handler3#AssociationDirected####0#0#0###0#0
+V526=url2#handler1#AssociationDirected####0#0#0###0#0
+V527=url20#handler3#AssociationDirected####0#0#0###0#0
+V528=url21#handler3#AssociationDirected####0#0#0###0#0
+V529=url22#handler3#AssociationDirected####0#0#0###0#0
+V530=url23#handler3#AssociationDirected####0#0#0###0#0
+V531=url24#handler3#AssociationDirected####0#0#0###0#0
+V532=url25#handler3#AssociationDirected####0#0#0###0#0
+V533=url26#handler3#AssociationDirected####0#0#0###0#0
+V534=url27#handler3#AssociationDirected####0#0#0###0#0
+V535=url28#handler3#AssociationDirected####0#0#0###0#0
+V536=url29#handler3#AssociationDirected####0#0#0###0#0
+V537=url3#handler1#AssociationDirected####0#0#0###0#0
+V538=url30#handler3#AssociationDirected####0#0#0###0#0
+V539=url4#handler1#AssociationDirected####0#0#0###0#0
+V540=url5#handler1#AssociationDirected####0#0#0###0#0
+V541=url6#handler1#AssociationDirected####0#0#0###0#0
+V542=url7#handler1#AssociationDirected####0#0#0###0#0
+V543=url8#handler1#AssociationDirected####0#0#0###0#0
+V544=url9#handler1#AssociationDirected####0#0#0###0#0
+V545=urlclasspath$fileloader1#url2#AssociationDirected####0#0#0###0#0
+V546=urlclasspath$fileloader1#file1#AssociationDirected####0#0#0###0#0
+V547=urlclasspath$fileloader2#url1#AssociationDirected####0#0#0###0#0
+V548=urlclasspath$fileloader2#file2#AssociationDirected####0#0#0###0#0
+V549=urlclasspath$jarloader1#url17#AssociationDirected####0#0#0###0#0
+V550=urlclasspath$jarloader1#jarfile1#AssociationDirected####0#0#0###0#0
+V551=urlclasspath$jarloader1#url3#AssociationDirected####0#0#0###0#0
+V552=urlclasspath$jarloader1#handler2#AssociationDirected####0#0#0###0#0
+V553=urlclasspath$jarloader1#hashmap6#AssociationDirected####0#0#0###0#0
+V554=urlclasspath$jarloader1#accesscontrolcontext2#AssociationDirected####0#0#0###0#0
+V555=urlclasspath$jarloader10#url26#AssociationDirected####0#0#0###0#0
+V556=urlclasspath$jarloader10#url12#AssociationDirected####0#0#0###0#0
+V557=urlclasspath$jarloader10#metaindex8#AssociationDirected####0#0#0###0#0
+V558=urlclasspath$jarloader10#handler3#AssociationDirected####0#0#0###0#0
+V559=urlclasspath$jarloader10#hashmap7#AssociationDirected####0#0#0###0#0
+V560=urlclasspath$jarloader10#accesscontrolcontext3#AssociationDirected####0#0#0###0#0
+V561=urlclasspath$jarloader11#url27#AssociationDirected####0#0#0###0#0
+V562=urlclasspath$jarloader11#url13#AssociationDirected####0#0#0###0#0
+V563=urlclasspath$jarloader11#metaindex9#AssociationDirected####0#0#0###0#0
+V564=urlclasspath$jarloader11#handler3#AssociationDirected####0#0#0###0#0
+V565=urlclasspath$jarloader11#hashmap7#AssociationDirected####0#0#0###0#0
+V566=urlclasspath$jarloader11#accesscontrolcontext3#AssociationDirected####0#0#0###0#0
+V567=urlclasspath$jarloader12#url28#AssociationDirected####0#0#0###0#0
+V568=urlclasspath$jarloader12#url14#AssociationDirected####0#0#0###0#0
+V569=urlclasspath$jarloader12#metaindex10#AssociationDirected####0#0#0###0#0
+V570=urlclasspath$jarloader12#handler3#AssociationDirected####0#0#0###0#0
+V571=urlclasspath$jarloader12#hashmap7#AssociationDirected####0#0#0###0#0
+V572=urlclasspath$jarloader12#accesscontrolcontext3#AssociationDirected####0#0#0###0#0
+V573=urlclasspath$jarloader13#url29#AssociationDirected####0#0#0###0#0
+V574=urlclasspath$jarloader13#url15#AssociationDirected####0#0#0###0#0
+V575=urlclasspath$jarloader13#metaindex11#AssociationDirected####0#0#0###0#0
+V576=urlclasspath$jarloader13#handler3#AssociationDirected####0#0#0###0#0
+V577=urlclasspath$jarloader13#hashmap7#AssociationDirected####0#0#0###0#0
+V578=urlclasspath$jarloader13#accesscontrolcontext3#AssociationDirected####0#0#0###0#0
+V579=urlclasspath$jarloader14#url30#AssociationDirected####0#0#0###0#0
+V580=urlclasspath$jarloader14#url16#AssociationDirected####0#0#0###0#0
+V581=urlclasspath$jarloader14#metaindex12#AssociationDirected####0#0#0###0#0
+V582=urlclasspath$jarloader14#handler3#AssociationDirected####0#0#0###0#0
+V583=urlclasspath$jarloader14#hashmap7#AssociationDirected####0#0#0###0#0
+V584=urlclasspath$jarloader14#accesscontrolcontext3#AssociationDirected####0#0#0###0#0
+V585=urlclasspath$jarloader2#url18#AssociationDirected####0#0#0###0#0
+V586=urlclasspath$jarloader2#url4#AssociationDirected####0#0#0###0#0
+V587=urlclasspath$jarloader2#metaindex1#AssociationDirected####0#0#0###0#0
+V588=urlclasspath$jarloader2#handler3#AssociationDirected####0#0#0###0#0
+V589=urlclasspath$jarloader2#hashmap7#AssociationDirected####0#0#0###0#0
+V590=urlclasspath$jarloader2#accesscontrolcontext3#AssociationDirected####0#0#0###0#0
+V591=urlclasspath$jarloader3#url19#AssociationDirected####0#0#0###0#0
+V592=urlclasspath$jarloader3#url5#AssociationDirected####0#0#0###0#0
+V593=urlclasspath$jarloader3#metaindex2#AssociationDirected####0#0#0###0#0
+V594=urlclasspath$jarloader3#handler3#AssociationDirected####0#0#0###0#0
+V595=urlclasspath$jarloader3#hashmap7#AssociationDirected####0#0#0###0#0
+V596=urlclasspath$jarloader3#accesscontrolcontext3#AssociationDirected####0#0#0###0#0
+V597=urlclasspath$jarloader4#url20#AssociationDirected####0#0#0###0#0
+V598=urlclasspath$jarloader4#url6#AssociationDirected####0#0#0###0#0
+V599=urlclasspath$jarloader4#metaindex3#AssociationDirected####0#0#0###0#0
+V600=urlclasspath$jarloader4#handler3#AssociationDirected####0#0#0###0#0
+V601=urlclasspath$jarloader4#hashmap7#AssociationDirected####0#0#0###0#0
+V602=urlclasspath$jarloader4#accesscontrolcontext3#AssociationDirected####0#0#0###0#0
+V603=urlclasspath$jarloader5#url21#AssociationDirected####0#0#0###0#0
+V604=urlclasspath$jarloader5#url7#AssociationDirected####0#0#0###0#0
+V605=urlclasspath$jarloader5#metaindex4#AssociationDirected####0#0#0###0#0
+V606=urlclasspath$jarloader5#handler3#AssociationDirected####0#0#0###0#0
+V607=urlclasspath$jarloader5#hashmap7#AssociationDirected####0#0#0###0#0
+V608=urlclasspath$jarloader5#accesscontrolcontext3#AssociationDirected####0#0#0###0#0
+V609=urlclasspath$jarloader6#url22#AssociationDirected####0#0#0###0#0
+V610=urlclasspath$jarloader6#url8#AssociationDirected####0#0#0###0#0
+V611=urlclasspath$jarloader6#metaindex5#AssociationDirected####0#0#0###0#0
+V612=urlclasspath$jarloader6#handler3#AssociationDirected####0#0#0###0#0
+V613=urlclasspath$jarloader6#hashmap7#AssociationDirected####0#0#0###0#0
+V614=urlclasspath$jarloader6#accesscontrolcontext3#AssociationDirected####0#0#0###0#0
+V615=urlclasspath$jarloader7#url23#AssociationDirected####0#0#0###0#0
+V616=urlclasspath$jarloader7#url9#AssociationDirected####0#0#0###0#0
+V617=urlclasspath$jarloader7#metaindex6#AssociationDirected####0#0#0###0#0
+V618=urlclasspath$jarloader7#handler3#AssociationDirected####0#0#0###0#0
+V619=urlclasspath$jarloader7#hashmap7#AssociationDirected####0#0#0###0#0
+V620=urlclasspath$jarloader7#accesscontrolcontext3#AssociationDirected####0#0#0###0#0
+V621=urlclasspath$jarloader8#url24#AssociationDirected####0#0#0###0#0
+V622=urlclasspath$jarloader8#jarfile2#AssociationDirected####0#0#0###0#0
+V623=urlclasspath$jarloader8#url10#AssociationDirected####0#0#0###0#0
+V624=urlclasspath$jarloader8#jarindex1#AssociationDirected####0#0#0###0#0
+V625=urlclasspath$jarloader8#handler3#AssociationDirected####0#0#0###0#0
+V626=urlclasspath$jarloader8#hashmap7#AssociationDirected####0#0#0###0#0
+V627=urlclasspath$jarloader8#accesscontrolcontext3#AssociationDirected####0#0#0###0#0
+V628=urlclasspath$jarloader9#url25#AssociationDirected####0#0#0###0#0
+V629=urlclasspath$jarloader9#url11#AssociationDirected####0#0#0###0#0
+V630=urlclasspath$jarloader9#metaindex7#AssociationDirected####0#0#0###0#0
+V631=urlclasspath$jarloader9#handler3#AssociationDirected####0#0#0###0#0
+V632=urlclasspath$jarloader9#hashmap7#AssociationDirected####0#0#0###0#0
+V633=urlclasspath$jarloader9#accesscontrolcontext3#AssociationDirected####0#0#0###0#0
+V634=urlclasspath1#arraylist2#AssociationDirected####0#0#0###0#0
+V635=urlclasspath1#stack1#AssociationDirected####0#0#0###0#0
+V636=urlclasspath1#arraylist3#AssociationDirected####0#0#0###0#0
+V637=urlclasspath1#hashmap6#AssociationDirected####0#0#0###0#0
+V638=urlclasspath1#handler2#AssociationDirected####0#0#0###0#0
+V639=urlclasspath1#accesscontrolcontext2#AssociationDirected####0#0#0###0#0
+V640=urlclasspath2#arraylist4#AssociationDirected####0#0#0###0#0
+V641=urlclasspath2#stack2#AssociationDirected####0#0#0###0#0
+V642=urlclasspath2#arraylist5#AssociationDirected####0#0#0###0#0
+V643=urlclasspath2#hashmap7#AssociationDirected####0#0#0###0#0
+V644=urlclasspath2#handler3#AssociationDirected####0#0#0###0#0
+V645=urlclasspath2#accesscontrolcontext3#AssociationDirected####0#0#0###0#0
+V646=utf_8$decoder1#utf_81#AssociationDirected####0#0#0###0#0
+V647=utf_8$decoder1#codingerroraction1#AssociationDirected####0#0#0###0#0
+V648=utf_8$decoder2#utf_81#AssociationDirected####0#0#0###0#0
+V649=utf_8$decoder2#codingerroraction1#AssociationDirected####0#0#0###0#0
+V650=utf_8$encoder1#utf_81#AssociationDirected####0#0#0###0#0
+V651=utf_8$encoder1#codingerroraction1#AssociationDirected####0#0#0###0#0
+V652=utf_8$encoder2#utf_81#AssociationDirected####0#0#0###0#0
+V653=utf_8$encoder2#codingerroraction1#AssociationDirected####0#0#0###0#0
+V654=weakhashmap$entry1#zipfile$zipfileinflaterinputstream1#AssociationDirected####0#0#0###0#0
+V655=weakhashmap$entry1#inflater2#AssociationDirected####0#0#0###0#0
+V656=weakhashmap$entryset1#weakhashmap1#AssociationDirected####0#0#0###0#0
+V657=weakhashmap$entryset2#weakhashmap2#AssociationDirected####0#0#0###0#0
+V658=weakhashmap$entryset3#weakhashmap3#AssociationDirected####0#0#0###0#0
+V659=weakhashmap$entryset4#weakhashmap4#AssociationDirected####0#0#0###0#0
+V660=weakhashmap1#weakhashmap$entryset1#AssociationDirected####0#0#0###0#0
+V661=weakhashmap2#weakhashmap$entryset2#AssociationDirected####0#0#0###0#0
+V662=weakhashmap3#weakhashmap$entryset3#AssociationDirected####0#0#0###0#0
+V663=weakhashmap4#weakhashmap$entry1#AssociationDirected####0#0#0###0#0
+V664=weakhashmap4#weakhashmap$entryset4#AssociationDirected####0#0#0###0#0
+V665=zipcoder1#utf_81#AssociationDirected####0#0#0###0#0
+V666=zipcoder1#utf_8$decoder1#AssociationDirected####0#0#0###0#0
+V667=zipcoder1#utf_8$encoder1#AssociationDirected####0#0#0###0#0
+V668=zipcoder2#utf_81#AssociationDirected####0#0#0###0#0
+V669=zipcoder2#utf_8$decoder2#AssociationDirected####0#0#0###0#0
+V670=zipcoder2#utf_8$encoder2#AssociationDirected####0#0#0###0#0
+V671=zipfile$zipfileinflaterinputstream1#zipfile$zipfileinputstream1#AssociationDirected####0#0#0###0#0
+V672=zipfile$zipfileinflaterinputstream1#inflater2#AssociationDirected####0#0#0###0#0
+V673=zipfile$zipfileinflaterinputstream1#jarfile2#AssociationDirected####0#0#0###0#0
+V674=zipfile$zipfileinputstream1#jarfile2#AssociationDirected####0#0#0###0#0
+
+[Interactive]
+I0=
+I1=GUI gui1 = new GUI();
+I2=GUI -ERR java.lang.NoSuchMethodError: palindromPruefen
+ = new GUI();
+

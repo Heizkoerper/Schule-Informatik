@@ -1,0 +1,60 @@
+﻿[Files]
+File0=..\..\Implementationen\Schuetze\Duell.java
+File1=..\..\Implementationen\Schuetze\Schiessstand.java
+File2=..\..\Implementationen\Schuetze\Schuetze.java
+
+[Box:  - Duell]
+X=76
+Y=45
+ShowParameter=4
+ShowIcons=2
+FontSize=13
+FontName=Consolas
+
+[Box:  - Schiessstand]
+X=944
+Y=68
+ShowParameter=4
+ShowIcons=2
+FontSize=13
+FontName=Consolas
+
+[Box:  - Schuetze]
+X=152
+Y=324
+ShowParameter=4
+ShowIcons=2
+FontSize=13
+FontName=Consolas
+
+[Diagram]
+comments=0
+OffsetX=0
+OffsetY=0
+Visibility=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=2
+ShowConnections=0
+Fontname=Consolas
+Fontsize=13
+ShowObjectDiagram=0
+
+[Connections]
+V0=Duell#Schuetze#AssociationDirected####0#0#0###0#0
+
+[Interactive]
+I0=
+I1=Schuetze schuetze1 = new Schuetze();
+I2=Schuetze schuetze2 = new Schuetze();
+I3=schuetze1.setNaechsterSchuetze(schuetze2);
+I4=Schuetze schuetze3 = new Schuetze();
+I5=schuetze2.getNaechsterSchuetze();
+I6=schuetze2.setNaechsterSchuetze(schuetze3);
+
+[Window]
+Left=30
+Top=30
+Width=400
+Height=300
+

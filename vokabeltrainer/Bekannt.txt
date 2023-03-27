@@ -1,0 +1,6 @@
+Stuhl;Chair
+Hund;Dog
+Katze;Cat
+Tisch;Table
+Auto;Car
+haus;house

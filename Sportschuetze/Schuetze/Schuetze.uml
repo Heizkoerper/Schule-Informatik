@@ -1,0 +1,64 @@
+﻿[Files]
+File0=..\..\Implementationen\Schuetze\Duell.java
+File1=..\..\Implementationen\Schuetze\Schuetze.java
+
+[Box:  - Duell]
+X=766
+Y=106
+ShowParameter=4
+ShowIcons=2
+FontSize=13
+FontName=Consolas
+
+[Box:  - Schuetze]
+X=233
+Y=71
+ShowParameter=4
+ShowIcons=2
+FontSize=13
+FontName=Consolas
+
+[Diagram]
+comments=0
+OffsetX=0
+OffsetY=0
+Visibility=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=2
+ShowConnections=0
+Fontname=Consolas
+Fontsize=13
+ShowObjectDiagram=0
+
+[Connections]
+V0=Duell#Schuetze#AssociationDirected####0#0#0###0#0
+V1=Schuetze#Schuetze#AssociationDirected####1#0#0###0#0
+
+[Interactive]
+I0=
+I1=Schuetze schuetze1 = new Schuetze();
+I2=schuetze1.trefferEinfuegen(0);
+I3=schuetze1.trefferEinfuegen(5);
+I4=schuetze1.trefferEinfuegen(6);
+I5=schuetze1.trefferEinfuegen(3);
+I6=Schuetze schuetze1 = new Schuetze();
+I7=Schuetze schuetze2 = new Schuetze();
+I8=Duell duell1 = new Duell();
+I9=schuetze1.trefferEinfuegen(1);
+I10=schuetze1.trefferEinfuegen(3);
+I11=schuetze1.trefferEinfuegen(3);
+I12=schuetze2.trefferEinfuegen(4);
+I13=schuetze2.trefferEinfuegen(1);
+I14=schuetze2.trefferEinfuegen(0);
+I15=duell1.besterSchuetze(schuetze1, schuetze2);
+I16=Schuetze schuetze1 = new Schuetze();
+I17=Schuetze schuetze2 = new Schuetze();
+I18=Schuetze schuetze3 = new Schuetze();
+
+[Window]
+Left=52
+Top=52
+Width=1478
+Height=469
+

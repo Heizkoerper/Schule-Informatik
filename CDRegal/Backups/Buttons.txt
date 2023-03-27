@@ -1,0 +1,7 @@
+Add
+Load from file
+Save to file
+Remove
+Search
+Refresh
+Sort by...

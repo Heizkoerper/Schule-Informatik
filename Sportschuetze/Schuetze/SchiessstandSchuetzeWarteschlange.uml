@@ -1,0 +1,67 @@
+﻿[Files]
+File0=H:\Gruppen\Q1 IF G1\Schülerordner\JonSch2\Implementationen\Sportsütze\Schuetze\Schiessstand.java
+File1=H:\Gruppen\Q1 IF G1\Schülerordner\JonSch2\Implementationen\Sportsütze\Schuetze\Schuetze.java
+File2=H:\Gruppen\Q1 IF G1\Schülerordner\JonSch2\Implementationen\Sportsütze\Schuetze\Warteschlange.java
+
+[Box:  - Schiessstand]
+X=568
+Y=114
+ShowParameter=4
+ShowIcons=2
+FontSize=13
+FontName=Consolas
+
+[Box:  - Schuetze]
+X=737
+Y=434
+ShowParameter=4
+ShowIcons=2
+FontSize=13
+FontName=Consolas
+
+[Box:  - Warteschlange]
+X=1183
+Y=39
+ShowParameter=4
+ShowIcons=2
+FontSize=13
+FontName=Consolas
+
+[Box:  - Warteschlange$Kontainer]
+X=190
+Y=346
+ShowParameter=4
+ShowIcons=2
+FontSize=13
+FontName=Consolas
+
+[Diagram]
+comments=0
+OffsetX=0
+OffsetY=0
+Visibility=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=0
+ShowConnections=0
+Fontname=Consolas
+Fontsize=13
+ShowObjectDiagram=0
+
+[Connections]
+V0=Schiessstand#Warteschlange#AssociationDirected####0#0#0###0#0
+V1=Warteschlange#Warteschlange$Kontainer#AssociationDirected####0#0#0###0#0
+V2=Warteschlange$Kontainer#Schuetze#AssociationDirected####0#0#0###0#0
+
+[Interactive]
+I0=
+I1=Schiessstand schiessstand1 = new Schiessstand();
+I2=Schuetze schuetze1 = new Schuetze();
+I3=warteschlange1.schuetzeAnstellen(schuetze1);
+
+[Window]
+Left=0
+Top=0
+Width=1478
+Height=469
+

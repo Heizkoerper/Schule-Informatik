@@ -1,0 +1,71 @@
+﻿[Files]
+File0=..\..\Implementationen\Palindrome\Dark\GUI.java
+File1=..\..\Implementationen\Palindrome\Dark\Palindrome.java
+File2=..\..\Implementationen\Palindrome\Dark\Sortieren.java
+File3=..\..\Implementationen\Palindrome\Dark\Stack.java
+
+[Box:  - GUI]
+X=915
+Y=40
+ShowParameter=4
+ShowIcons=2
+FontSize=12
+FontName=Segoe UI
+
+[Box:  - Palindrome]
+X=894
+Y=320
+ShowParameter=4
+ShowIcons=2
+FontSize=12
+FontName=Segoe UI
+
+[Box:  - Sortieren]
+X=678
+Y=40
+ShowParameter=4
+ShowIcons=2
+FontSize=12
+FontName=Segoe UI
+
+[Box:  - Stack<ContentType>]
+X=437
+Y=40
+ShowParameter=4
+ShowIcons=2
+FontSize=12
+FontName=Segoe UI
+
+[Box:  - Stack<ContentType>$StackNode]
+X=413
+Y=292
+ShowParameter=4
+ShowIcons=2
+FontSize=12
+FontName=Segoe UI
+
+[Diagram]
+comments=0
+OffsetX=0
+OffsetY=0
+Visibility=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=0
+ShowConnections=0
+Fontname=Segoe UI
+Fontsize=12
+ShowObjectDiagram=0
+
+[Connections]
+V0=Stack<ContentType>#Stack<ContentType>$StackNode#AssociationDirected####0#0#0###0#0
+
+[Interactive]
+I0=
+
+[Window]
+Left=156
+Top=156
+Width=1445
+Height=423
+
