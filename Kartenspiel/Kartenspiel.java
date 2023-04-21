@@ -1,6 +1,5 @@
 public class Kartenspiel {
 
-    // Deklariere ein neues Array fuer die Karten
     private Karte[] karten;
 
     public Kartenspiel() {
